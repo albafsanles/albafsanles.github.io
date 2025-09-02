@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "About"
+title: "Quién soy"
 permalink: /about/
 ---
-
-# About Me
 
 # Quién soy
 Soy Alba Fernández Sanlés, investigadora biomédica en la University College London.  
