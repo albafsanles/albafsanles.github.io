@@ -8,6 +8,7 @@ permalink: /cv/
 
 Puedes descargar mi CV actualizado en PDF:
 
+*Actualizando...*
 [Descargar CV](assets/files/AlbaFernandezSanles_CV_202509.pdf)
 
 [Inicio](/)
