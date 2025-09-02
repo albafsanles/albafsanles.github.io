@@ -2,7 +2,7 @@
 title: Alba Fernández Sanlés
 description: Investigo y conecto ciencia, academia y sociedad para generar impacto comunitario y conocimiento compartido.
 theme: jekyll-theme-modernist
-
+markdown: kramdown
 url: "https://albafernandezsanles.github.io"
 
 # Navigation links
