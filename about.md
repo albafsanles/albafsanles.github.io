@@ -1,3 +1,9 @@
+---
+layout: page
+title: "About"
+permalink: /about/
+---
+
 # About Me
 
 # Quién soy
@@ -9,13 +15,13 @@ Investigo y conecto ciencia, academia y sociedad para generar impacto y conocimi
 - Biología molecular
 - Estudios longitunidales (cohortes)
 - Investigación en prevención de enfermedades: biomarcadores moleculares, y determinantes sociales, ambientales y de estilo de vida en salud
-- Intercambio de conocimiento que vincula ciencia con comunidades
+- Intercambio de conocimiento que vincula ciencia con comunidades (co-producción entre profesionales y gente con experiencia vivida, compromiso ciudadano de la ciencia, divulgación científica)
 - Activismo y voluntariado científico y comunitario
 
-## Logros profesionales
-- Coordinación de proyectos multicentros en salud poblacional
-- Experiencia en PPI (Patient and Public Involvement)
-- Liderazgo y mentoría en organizaciones científicas
+## Redes
+- Academia: UCL, South London & Maudsley Hospital, University of Bristol, Universitat Pompeu Fabra, Instituto de Investigaciones Médicas Hospital de Mar, Parque de Investigación Biomédica de Barcelona, USC
+- Profesionales: Homeward bound projects, Investigal, Sociedad de Científicos Españoles en Reino Unido, RAICEX, CONNECTS-UK, ISTAART, ALBA network
+- Sociales: REGA-UK, Sartaxas, Native Scientists, Babbasa, In2Science, IEUbakers, Incubakers
 
 ## Perfiles en línea
 - [LinkedIn](https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/a-fernandez-sanles/)
