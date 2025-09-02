@@ -24,9 +24,9 @@ Investigo y conecto ciencia, academia y sociedad para generar impacto y conocimi
 - Sociales: REGA-UK, Sartaxas, Native Scientists, Babbasa, In2Science, IEUbakers, Incubakers
 
 ## Perfiles en línea
-- [LinkedIn](https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/a-fernandez-sanles/)
+- [LinkedIn](https://www.linkedin.com/in/a-fernandez-sanles/)
 - [Web personal](https://albafernandezsanles.wordpress.com)
-- [Perfil UCL](https://www.ucl.ac.uk/people/alba-fernandez-sanles](https://profiles.ucl.ac.uk/93522-alba-fernandez-sanles)
-- [Google Scholar](https://scholar.google.com/citations?user=YOURID](https://scholar.google.com/citations?user=vvKQGXkAAAAJ)
-- [Publicaciones PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fernandez+Sanles+A](https://pubmed.ncbi.nlm.nih.gov/?term=Fern%C3%A1ndez-Sanl%C3%A9s+A&sort=date)
-- [ORCId](https://orcid.org/my-orcid?orcid=0000-0002-3587-8177)
+- [Perfil UCL](https://profiles.ucl.ac.uk/93522-alba-fernandez-sanles)
+- [Google Scholar](https://scholar.google.com/citations?user=vvKQGXkAAAAJ)
+- [Publicaciones PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fern%C3%A1ndez-Sanl%C3%A9s+A&sort=date)
+- [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-3587-8177)
