@@ -1,3 +1,29 @@
+# Basic settings
 title: Alba Fernández Sanlés
 description: Investigo y conecto ciencia, academia y sociedad para generar impacto comunitario y conocimiento compartido.
 theme: jekyll-theme-modernist
+
+url: "https://albafernandezsanles.github.io"
+
+# Navigation links
+nav:
+  - title: About
+    url: /about.html
+  - title: Projects and activities
+    url: /projects/
+  - title: Contact
+    url: /contact.html
+
+# Author information
+author:
+  name: Dr Alba Fernández Sanlés
+  email: albafsanles@gmail.com
+  website: https://albafernandezsanles.wordpress.com
+  linkedin: https://www.linkedin.com/in/a-fernandez-sanles/
+  ucl_profile: https://profiles.ucl.ac.uk/93522-alba-fernandez-sanles
+  google_scholar: https://scholar.google.com/citations?user=vvKQGXkAAAAJ
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Fern%C3%A1ndez-Sanl%C3%A9s+A&sort=date
+  orcid: https://orcid.org/my-orcid?orcid=0000-0002-3587-8177
+  
+# Additional options
+paginate: 5   # to paginate blog posts or project lists
