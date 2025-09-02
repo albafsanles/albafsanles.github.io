@@ -17,3 +17,5 @@ Si quieres ponerte en contacto conmigo, puedes usar cualquiera de los siguientes
 
 ## *Nota*
 *No publico mi teléfono para mantener la privacidad*
+
+[Inicio](/)
