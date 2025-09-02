@@ -10,3 +10,4 @@ Puedes descargar mi CV actualizado en PDF:
 
 [Descargar CV](assets/files/AlbaFernandezSanles_CV_202509.pdf)
 
+[Inicio](/)
