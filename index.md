@@ -11,5 +11,6 @@ permalink: /
     <a href="/about/" style="margin-right: 1em;">Quién soy</a>
     <a href="/projects/" style="margin-right: 1em;">Proyectos</a>
     <a href="/contact/">Contacto</a>
+    <a href="/cv/" style="margin-right: 1em;">CV</a>
   </p>
 </section>
