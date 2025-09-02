@@ -8,11 +8,11 @@ url: "https://albafernandezsanles.github.io"
 # Navigation links
 nav:
   - title: About
-    url: /about.html
+    url: /about
   - title: Projects and activities
-    url: /projects/
+    url: /projects
   - title: Contact
-    url: /contact.html
+    url: /contact
 
 # Author information
 author:
