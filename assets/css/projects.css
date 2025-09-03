@@ -1,39 +1,66 @@
-/* projects.css - estilos solo para páginas con proyectos */
+/* projects.css - exclusivo para páginas de proyectos */
+body {
+    font-family: "Helvetica Neue", sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fdfdfd;
+    color: #333;
+}
+
+header {
+    background: #0a3d62; /* azul oscuro */
+    color: white;
+    padding: 1.5em 1em;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header nav a {
+    color: white;
+    margin: 0 1em;
+    text-decoration: none;
+}
+
+main {
+    max-width: 900px; /* ancho máximo */
+    margin: 2em auto; /* centrado horizontal */
+    padding: 0 2em; /* márgenes internos */
+}
+
+h2 {
+    background: #e0e0e0; /* gris suave para títulos de proyectos */
+    padding: 0.5em;
+    border-left: 6px solid #0a3d62; /* barra azul a la izquierda */
+    margin-top: 2em;
+}
 
 details {
     margin-bottom: 1em;
-    padding: 0.5em;
     border: 1px solid #ccc;
+    padding: 0.5em;
     border-radius: 5px;
-    background: #f9f9f9;
+    background: #fafafa; /* bloque claro */
 }
 
 summary {
     font-weight: bold;
     cursor: pointer;
     outline: none;
+    padding: 0.3em 0.5em;
+    background: #0a3d62; /* barra resumen azul */
+    color: white; /* texto blanco */
+    border-radius: 3px;
 }
 
 summary::-webkit-details-marker {
-    display: none;
+    display: none; /* quitar marcador por defecto */
 }
 
-/* Espaciado dentro del details */
-details p {
+p {
+    line-height: 1.6;
     margin: 0.5em 0;
-}
-
-/* Resaltar títulos de campos dentro del details */
-details p strong {
-    color: #0a3d62;
-}
-
-/* Opcional: efecto hover en summary */
-summary:hover {
-    color: #1e90ff;
-}
-
-/* Ajuste responsive si quieres que el contenido no se desborde en pantallas pequeñas */
-details p {
-    word-wrap: break-word;
 }
