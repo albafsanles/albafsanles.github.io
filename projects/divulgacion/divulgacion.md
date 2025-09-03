@@ -22,10 +22,10 @@ Aquí puedes ver los proyectos de comunicación y compromiso público de la cien
 <p><strong>Impacto:</strong> Numerosos consumidores del contenido, baja participación e interacción</p>
 <p><strong>Años:</strong> 2023-2025</p>
 <p><strong>Contribuciones:</strong> Trabajo individual</p>
-<p><strong>Legado:</strong> Red para futuras actividades de divulgación y colaboración en estudios </p>
+<p><strong>Legado:</strong> Contenido publicado para consulta e inspiración; Red para futuras actividades de divulgación y colaboración en estudios </p>
 <p><strong>Enlaces:</strong> 
   <a href="https://www.instagram.com/albafs_hber608/" target="_blank">
-    📷 Instagram
+    Instagram
   </a>
 </p>
 </details>
