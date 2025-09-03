@@ -15,7 +15,4 @@ Si quieres ponerte en contacto conmigo, puedes usar cualquiera de los siguientes
 ## Formulario
 - [Web personal](https://albafernandezsanles.wordpress.com/contacto/)
 
-## *Nota*
-*No publico mi teléfono para mantener la privacidad*
-
 ***[Inicio](/)***
