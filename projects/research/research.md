@@ -221,7 +221,7 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
 <p><strong>Contribuciones:</strong> .</p>
 <p><strong>Colaboraciones:</strong> .</p>
 <p><strong>Legado:</strong> .</p>
-<p><strong>Otros enlaces:</strong>NA</p>
+<p><strong>Otros enlaces:</strong>NA </p>
 
 </details>
 
