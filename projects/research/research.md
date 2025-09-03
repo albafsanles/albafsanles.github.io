@@ -217,6 +217,7 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
  <a href="https://www.bristol.ac.uk/integrative-epidemiology/research/womens-health/" target="_blank">
  Unidad MRC de Epidemiología Inegrativa en la Universidad de Bristol
   </a>
+<p>
 <p><strong>Años:</strong> 2024-2025</p>
 <p><strong>Contribuciones:</strong> .</p>
 <p><strong>Colaboraciones:</strong> .</p>
