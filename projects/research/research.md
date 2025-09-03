@@ -8,7 +8,7 @@ permalink: /projects/research/
 
 Aquí puedes ver los proyectos de investigación en los que he trabajado:
 
-## **Estudio IMPACT en demencia**
+## **Estudio IMPACT en demencia (cuidados)**
 <details>
 <summary>Ver detalles</summary>
  
@@ -33,7 +33,7 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
  
 </details>
 
-## **CONVALESCENCE Deep phenotyping**
+## **CONVALESCENCE Deep phenotyping (caracterización de COVID persistente)**
 <details>
 <summary>Ver detalles</summary>
  
@@ -58,7 +58,7 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
  
 </details>
 
-## **Infecciones y salud a lo largo de la vida**
+## **Infecciones y salud a lo largo de la vida (memoria de infecciones, enfermedades asociadas al envejecimiento y fragilidad)**
 <details>
 <summary>Ver detalles</summary>
 
@@ -83,7 +83,7 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 
 </details>
 
-## **MR-PheWAS**
+## **Determinantes con base genética de fenotipos subclínicos y clínicos (MR-PheWAS)**
 <details>
 <summary>Ver detalles</summary>
 
@@ -108,7 +108,7 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
  
 </details>
 
-## **Inflamación y multimorbilidad**
+## **Inflamación y multimorbilidad (proteogenómica e inferencia causal)**
 <details>
 <summary>Ver detalles</summary>
 
@@ -133,7 +133,7 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 
 </details>
 
-## **Determinantes con base genética de eventos adversos del embarazo y perinatales**
+## **Determinantes con base genética de eventos adversos del embarazo y perinatales (triangulación en múltiples cohortes - MR-PREG)**
 <details>
 <summary>Ver detalles</summary>
 
@@ -158,7 +158,7 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 
 </details>
 
-## **Sesgo de selección en estudios epidemiológicos de COVID**
+## **Sesgo de selección en estudios epidemiológicos de COVID-19 (COVIDITY)**
 <details>
 <summary>Ver detalles</summary>
 
@@ -183,7 +183,7 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 
 </details>
 
-## **Epigenómica de la salud cardiometabólica**
+## **Epigenómica de la salud cardiometabólica (EWAS en múltiples cohortes)**
 <details>
 <summary>Ver detalles</summary>
 
@@ -208,7 +208,7 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 
 </details>
 
-## **Virología molecular**
+## **Virología molecular (HIV, HCV, flavivirus emergentes)**
 <details>
 <summary>Ver detalles</summary>
 
