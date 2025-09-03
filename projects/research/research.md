@@ -182,7 +182,7 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
 <p><strong>Conferencias:</strong> Conferencia de la Sociedad Internacional de Epidemiología Genética, IGES (Septiembre 2022, Paris); múltiples conferencias regionales y nacionales en Reino Unido. </p>
 <p><strong>Dónde:</strong> 
  <a href="https://www.bristol.ac.uk/integrative-epidemiology/research/womens-health/" target="_blank">
- Unidad MRC de Epidemiología Inegrativa en la Universidad de Bristol</p>
+ Unidad MRC de Epidemiología Inegrativa en la Universidad de Bristol
   </a>
 </p>
 <p><strong>Años:</strong> 2020-2025</p>
@@ -215,7 +215,7 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
 <p><strong>Conferencias:</strong> .</p>
 <p><strong>Dónde:</strong> 
  <a href="https://www.bristol.ac.uk/integrative-epidemiology/research/womens-health/" target="_blank">
- Unidad MRC de Epidemiología Inegrativa en la Universidad de Bristol</p>
+ Unidad MRC de Epidemiología Inegrativa en la Universidad de Bristol
   </a>
 <p><strong>Años:</strong> 2024-2025</p>
 <p><strong>Contribuciones:</strong> .</p>
@@ -243,7 +243,7 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
 <p><strong>Conferencias:</strong> .</p>
 <p><strong>Dónde:</strong> 
   <a href="https://www.bristol.ac.uk/integrative-epidemiology/research/womens-health/" target="_blank">
- Unidad MRC de Epidemiología Inegrativa en la Universidad de Bristol</p>
+ Unidad MRC de Epidemiología Inegrativa en la Universidad de Bristol
   </a>
 </p>
 <p><strong>Años:</strong> 2020-2024</p>
