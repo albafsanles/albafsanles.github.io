@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
-<body>
+<body class="projects">
   <header>
     <h1>{{ page.title }}</h1>
     <nav>
@@ -27,22 +27,24 @@
   </footer>
 
   <style>
-    details {
+    /* Solo para la página de proyectos */
+    body.projects details {
       margin-bottom: 1em;
       border: 1px solid #ccc;
       padding: 0.5em;
       border-radius: 5px;
       background: #f9f9f9;
     }
-    summary {
+
+    body.projects summary {
       font-weight: bold;
       cursor: pointer;
       outline: none;
     }
-    summary::-webkit-details-marker {
+
+    body.projects summary::-webkit-details-marker {
       display: none;
     }
   </style>
 </body>
 </html>
-
