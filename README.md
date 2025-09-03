@@ -14,4 +14,4 @@
 ## Attribution
 *In light of balancing open science practices with authorship credits, if you use either the technical elements or (more importantly) the ideas from this repository and website, kindly acknowledge the source of inspiration (i.e., albafsanles.github.io) to maintain academic integrity and avoid unintentional plagiarism.*
 ## Acknowledgement
-This project was developed with technical support provided by ChatGPT (OpenAI) in the setup of layouts and styling.*
+*This project was developed with technical support provided by ChatGPT (OpenAI) in the setup of layouts and styling.*
