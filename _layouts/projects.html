@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <style>
+    /* Mejora visual de detalles/resumen y listas dentro */
+    details {
+      margin-bottom: 1.5em;
+      padding-left: 0.5em;
+    }
+
+    summary {
+      font-weight: bold;
+      cursor: pointer;
+      font-size: 1.2em;
+      margin-bottom: 0.5em;
+      outline: none;
+    }
+
+    details[open] summary::after {
+      content: " ▲";
+    }
+
+    summary::after {
+      content: " ▼";
+      font-size: 0.9em;
+      color: #666;
+    }
+
+    details ul, details ol {
+      margin-left: 1.5em;
+      margin-bottom: 0.5em;
+    }
+
+    details li {
+      margin-bottom: 0.3em;
+    }
+
+    /* Ajustes generales del contenido */
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2em 1em;
+      line-height: 1.6;
+      font-family: "Helvetica Neue", sans-serif;
+      color: #333;
+    }
+
+    h1, h2, h3 {
+      font-weight: bold;
+    }
+
+    h1 {
+      margin-bottom: 0.5em;
+    }
+
+    h2 {
+      margin-top: 1.5em;
+      margin-bottom: 0.5em;
+    }
+
+    a {
+      color: #0a3d62;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header class="site-header" style="text-align: center; padding: 2em 1em; background: #0a3d62; color: white;">
+    <h1>{{ page.title }}</h1>
