@@ -29,4 +29,4 @@ Investigo y conecto ciencia, academia y sociedad para generar impacto y conocimi
 - [Publicaciones PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Fern%C3%A1ndez-Sanl%C3%A9s+A&sort=date)
 - [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-3587-8177)
 
-[Inicio](/)
+***[Inicio](/)***
