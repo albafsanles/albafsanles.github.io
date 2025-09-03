@@ -1,12 +1,15 @@
-/* projects.css - exclusivo para páginas de proyectos */
+/* projects.css */
+
+/* Tipografía general para esta página */
 body {
-    font-family: "Helvetica Neue", sans-serif;
+    font-family: "Helvetica Neue", Arial, sans-serif;
     margin: 0;
     padding: 0;
     background: #fdfdfd;
     color: #333;
 }
 
+/* Encabezado de la página */
 header {
     background: #0a3d62; /* azul oscuro */
     color: white;
@@ -19,48 +22,70 @@ header h1 {
     font-size: 2em;
 }
 
+header nav {
+    margin-top: 0.5em;
+}
+
 header nav a {
     color: white;
     margin: 0 1em;
     text-decoration: none;
+    font-weight: bold;
 }
 
+/* Contenido principal */
 main {
-    max-width: 900px; /* ancho máximo */
-    margin: 2em auto; /* centrado horizontal */
-    padding: 0 2em; /* márgenes internos */
+    max-width: 900px;
+    margin: 2em auto;
+    padding: 0 1.5em;
 }
 
-h2 {
-    background: #e0e0e0; /* gris suave para títulos de proyectos */
-    padding: 0.5em;
-    border-left: 6px solid #0a3d62; /* barra azul a la izquierda */
-    margin-top: 2em;
-}
-
-details {
-    margin-bottom: 1em;
-    border: 1px solid #ccc;
-    padding: 0.5em;
+/* Estilos para subtítulos de proyectos */
+main h2 {
+    background: #2c3e50; /* azul grisáceo oscuro */
+    color: #fff;
+    padding: 0.5em 1em;
     border-radius: 5px;
-    background: #fafafa; /* bloque claro */
+    margin-top: 2em;
+    font-size: 1.5em;
 }
 
+/* Bloques <details> */
+details {
+    margin: 1em 0;
+    padding: 0.5em 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #ffffff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* El resumen que se ve siempre */
 summary {
     font-weight: bold;
     cursor: pointer;
     outline: none;
-    padding: 0.3em 0.5em;
-    background: #0a3d62; /* barra resumen azul */
-    color: white; /* texto blanco */
-    border-radius: 3px;
+    font-size: 1.1em;
+    color: #0a3d62; /* azul oscuro */
 }
 
+/* Ocultar marcador por defecto */
 summary::-webkit-details-marker {
-    display: none; /* quitar marcador por defecto */
+    display: none;
 }
 
-p {
-    line-height: 1.6;
+/* Espacio entre párrafos dentro de <details> */
+details p {
     margin: 0.5em 0;
+    line-height: 1.5em;
+}
+
+/* Footer */
+footer {
+    background: #eee;
+    color: #555;
+    text-align: center;
+    padding: 2em 1em;
+    margin-top: 2em;
+    font-size: 0.9em;
 }
