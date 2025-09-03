@@ -18,4 +18,4 @@ Puedes descargar mi CV narrativo en PDF:
 *Actualizando...*
 
 
-[Inicio](/)
+***[Inicio](/)***
