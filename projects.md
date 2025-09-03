@@ -16,4 +16,4 @@ permalink: /projects/
 # Proyectos de activismo
 *En construcción*
 
-[Inicio](/)
+***[Inicio](/)***
