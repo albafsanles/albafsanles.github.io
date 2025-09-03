@@ -54,7 +54,7 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 <p><strong>Contribuciones:</strong> Diseño analítico de los datos clínicos; Manejo, integración y análisis de datos clínicos; Colaboración multidisciplinar, multicéntrica, y con personas con experiencia vivida; Coordinación de trabajo colaborativo; Producción de artículos y presentaciones</p>
 <p><strong>Colaboraciones:</strong> South London & Maudsley NHS Foundation Trust</p>
 <p><strong>Legado:</strong> Marco multidimensional para la investigación del COVID persistente; Colaboración interdisciplinaria sostenible; Herramientas de investigación para futuras epidemias.</p>
-<p><strong>Otros enlaces:</strong> 
+<p><strong>Otros enlaces:</strong> </p>
  
 </details>
 
