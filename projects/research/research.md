@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Investigación 1
+title: Investigación
 permalink: /projects/research/
 ---
 
