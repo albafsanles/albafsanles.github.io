@@ -1,3 +1,4 @@
+/* Reglas generales para todas las páginas */
 body {
     font-family: "Helvetica Neue", sans-serif;
     margin: 0;
@@ -33,7 +34,8 @@ footer {
     margin-top: 2em;
 }
 
-details {
+/* SOLO para la página de proyectos */
+body.projects details {
     margin-bottom: 1em;
     padding: 0.5em;
     border: 1px solid #ccc;
@@ -41,7 +43,7 @@ details {
     background: #fafafa;
 }
 
-summary {
+body.projects summary {
     font-weight: bold;
     cursor: pointer;
 }
