@@ -54,7 +54,7 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 <p><strong>Contribuciones:</strong> Diseño analítico de los datos clínicos; Manejo, integración y análisis de datos clínicos; Colaboración multidisciplinar, multicéntrica, y con personas con experiencia vivida; Coordinación de trabajo colaborativo; Producción de artículos y presentaciones</p>
 <p><strong>Colaboraciones:</strong> South London & Maudsley NHS Foundation Trust</p>
 <p><strong>Legado:</strong> Marco multidimensional para la investigación del COVID persistente; Colaboración interdisciplinaria sostenible; Herramientas de investigación para futuras epidemias.</p>
-<p><strong>Otros enlaces:</strong> </p>
+<p><strong>Otros enlaces:</strong> NA</p>
  
 </details>
 
@@ -63,23 +63,23 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 <summary>Ver detalles</summary>
 
 <p><strong>Estado:</strong> Activo</p>
-<p><strong>Palabras clave:</strong> </p>
+<p><strong>Palabras clave:</strong> .</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
-<p><strong>Financiación:</strong> </p>
-<p><strong>Contexto:</strong> </p>
-<p><strong>Objetivo:</strong> </p>
-<p><strong>Métodos:</strong> </p>
-<p><strong>Cohortes:</strong> </p>
-<p><strong>Conclusiones:</strong> En progreso </p>
-<p><strong>Impacto:</strong> </p>
-<p><strong>Artículos:</strong> </p>
-<p><strong>Conferencias:</strong> </p>
+<p><strong>Financiación:</strong> .</p>
+<p><strong>Contexto:</strong> .</p>
+<p><strong>Objetivo:</strong>.</p>
+<p><strong>Métodos:</strong> .</p>
+<p><strong>Cohortes:</strong> .</p>
+<p><strong>Conclusiones:</strong> En progreso.</p>
+<p><strong>Impacto:</strong> .</p>
+<p><strong>Artículos:</strong> .</p>
+<p><strong>Conferencias:</strong> .</p>
 <p><strong>Dónde:</strong> Unidad de Salud a lo largo de la vida y envejecimiento, University College London</p>
 <p><strong>Años:</strong> 2023-2025</p>
-<p><strong>Contribuciones:</strong> </p>
-<p><strong>Colaboraciones:</strong> </p>
-<p><strong>Legado:</strong> </p>
-<p><strong>Otros enlaces:</strong> </p>
+<p><strong>Contribuciones:</strong> .</p>
+<p><strong>Colaboraciones:</strong> .</p>
+<p><strong>Legado:</strong> .</p>
+<p><strong>Otros enlaces:</strong> .</p>
 
 </details>
 
@@ -88,23 +88,23 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 <summary>Ver detalles</summary>
 
 <p><strong>Estado:</strong> Activo</p>
-<p><strong>Palabras clave:</strong> </p>
+<p><strong>Palabras clave:</strong> .</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
-<p><strong>Financiación:</strong> </p>
-<p><strong>Contexto:</strong> </p>
-<p><strong>Objetivo:</strong> </p>
-<p><strong>Métodos:</strong> </p>
-<p><strong>Cohortes:</strong> </p>
-<p><strong>Conclusiones:</strong> En progreso </p>
-<p><strong>Impacto:</strong> </p>
-<p><strong>Artículos:</strong> </p>
-<p><strong>Conferencias:</strong> </p>
-<p><strong>Dónde:</strong> </p>
-<p><strong>Años:</strong> </p>
-<p><strong>Contribuciones:</strong> </p>
-<p><strong>Colaboraciones:</strong> </p>
-<p><strong>Legado:</strong> </p>
-<p><strong>Otros enlaces:</strong> </p>
+<p><strong>Financiación:</strong> .</p>
+<p><strong>Contexto:</strong> .</p>
+<p><strong>Objetivo:</strong> .</p>
+<p><strong>Métodos:</strong> .</p>
+<p><strong>Cohortes:</strong> .</p>
+<p><strong>Conclusiones:</strong> En progreso .</p>
+<p><strong>Impacto:</strong>.</p>
+<p><strong>Artículos:</strong>.</p>
+<p><strong>Conferencias:</strong>.</p>
+<p><strong>Dónde:</strong>.</p>
+<p><strong>Años:</strong>.</p>
+<p><strong>Contribuciones:</strong>.</p>
+<p><strong>Colaboraciones:</strong>.</p>
+<p><strong>Legado:</strong>.</p>
+<p><strong>Otros enlaces:</strong>NA</p>
  
 </details>
 
@@ -113,23 +113,23 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 <summary>Ver detalles</summary>
 
 <p><strong>Estado:</strong> Activo</p>
-<p><strong>Palabras clave:</strong> </p>
+<p><strong>Palabras clave:</strong>.</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
-<p><strong>Financiación:</strong> </p>
-<p><strong>Contexto:</strong> </p>
-<p><strong>Objetivo:</strong> </p>
-<p><strong>Métodos:</strong> </p>
-<p><strong>Cohortes:</strong> </p>
-<p><strong>Conclusiones:</strong> En progreso </p>
-<p><strong>Impacto:</strong> </p>
-<p><strong>Artículos:</strong> </p>
-<p><strong>Conferencias:</strong> </p>
+<p><strong>Financiación:</strong>.</p>
+<p><strong>Contexto:</strong>.</p>
+<p><strong>Objetivo:</strong>.</p>
+<p><strong>Métodos:</strong>.</p>
+<p><strong>Cohortes:</strong>.</p>
+<p><strong>Conclusiones:</strong> En progreso.</p>
+<p><strong>Impacto:</strong>.</p>
+<p><strong>Artículos:</strong>.</p>
+<p><strong>Conferencias:</strong>.</p>
 <p><strong>Dónde:</strong> Unidad de Epidemiología Integrativa, University of Bristol</p>
 <p><strong>Años:</strong> 2020-2025</p>
-<p><strong>Contribuciones:</strong> </p>
-<p><strong>Colaboraciones:</strong> </p>
-<p><strong>Legado:</strong> </p>
-<p><strong>Otros enlaces:</strong> </p>
+<p><strong>Contribuciones:</strong>.</p>
+<p><strong>Colaboraciones:</strong>.</p>
+<p><strong>Legado:</strong>.</p>
+<p><strong>Otros enlaces:</strong>NA</p>
 
 </details>
 
@@ -138,23 +138,23 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 <summary>Ver detalles</summary>
 
 <p><strong>Estado:</strong> Activo</p>
-<p><strong>Palabras clave:</strong> </p>
+<p><strong>Palabras clave:</strong>.</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
-<p><strong>Financiación:</strong> </p>
-<p><strong>Contexto:</strong> </p>
-<p><strong>Objetivo:</strong> </p>
-<p><strong>Métodos:</strong> </p>
-<p><strong>Cohortes:</strong> </p>
-<p><strong>Conclusiones:</strong> En progreso </p>
-<p><strong>Impacto:</strong> </p>
-<p><strong>Artículos:</strong> </p>
-<p><strong>Conferencias:</strong> </p>
+<p><strong>Financiación:</strong>.</p>
+<p><strong>Contexto:</strong>.</p>
+<p><strong>Objetivo:</strong>.</p>
+<p><strong>Métodos:</strong>.</p>
+<p><strong>Cohortes:</strong>.</p>
+<p><strong>Conclusiones:</strong> En progreso.</p>
+<p><strong>Impacto:</strong>.</p>
+<p><strong>Artículos:</strong>.</p>
+<p><strong>Conferencias:</strong>.</p>
 <p><strong>Dónde:</strong> University College London</p>
 <p><strong>Años:</strong> 2024-2025</p>
-<p><strong>Contribuciones:</strong> </p>
-<p><strong>Colaboraciones:</strong> </p>
-<p><strong>Legado:</strong> </p>
-<p><strong>Otros enlaces:</strong> </p>
+<p><strong>Contribuciones:</strong>.</p>
+<p><strong>Colaboraciones:</strong>.</p>
+<p><strong>Legado:</strong>.</p>
+<p><strong>Otros enlaces:</strong>NA</p>
 
 </details>
 
@@ -163,23 +163,23 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 <summary>Ver detalles</summary>
 
 <p><strong>Estado:</strong> Activo</p>
-<p><strong>Palabras clave:</strong> </p>
+<p><strong>Palabras clave:</strong>.</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
-<p><strong>Financiación:</strong> </p>
-<p><strong>Contexto:</strong> </p>
-<p><strong>Objetivo:</strong> </p>
-<p><strong>Métodos:</strong> </p>
-<p><strong>Cohortes:</strong> </p>
-<p><strong>Conclusiones:</strong> En progreso </p>
-<p><strong>Impacto:</strong> </p>
-<p><strong>Artículos:</strong> </p>
-<p><strong>Conferencias:</strong> </p>
+<p><strong>Financiación:</strong>.</p>
+<p><strong>Contexto:</strong>.</p>
+<p><strong>Objetivo:</strong>.</p>
+<p><strong>Métodos:</strong>.</p>
+<p><strong>Cohortes:</strong>.</p>
+<p><strong>Conclusiones:</strong> En progreso.</p>
+<p><strong>Impacto:</strong>.</p>
+<p><strong>Artículos:</strong>.</p>
+<p><strong>Conferencias:</strong>.</p>
 <p><strong>Dónde:</strong> Unidad de Epidemiología Integrativa, University of Bristol</p>
 <p><strong>Años:</strong> 2020-2024</p>
-<p><strong>Contribuciones:</strong> </p>
-<p><strong>Colaboraciones:</strong> </p>
-<p><strong>Legado:</strong> </p>
-<p><strong>Otros enlaces:</strong> </p>
+<p><strong>Contribuciones:</strong>.</p>
+<p><strong>Colaboraciones:</strong>.</p>
+<p><strong>Legado:</strong>.</p>
+<p><strong>Otros enlaces:</strong>NA</p>
 
 </details>
 
@@ -188,23 +188,23 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 <summary>Ver detalles</summary>
 
 <p><strong>Estado:</strong> Activo</p>
-<p><strong>Palabras clave:</strong> </p>
+<p><strong>Palabras clave:</strong>.</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
-<p><strong>Financiación:</strong> </p>
-<p><strong>Contexto:</strong> </p>
-<p><strong>Objetivo:</strong> </p>
-<p><strong>Métodos:</strong> </p>
-<p><strong>Cohortes:</strong> </p>
-<p><strong>Conclusiones:</strong> En progreso </p>
-<p><strong>Impacto:</strong> </p>
-<p><strong>Artículos:</strong> </p>
-<p><strong>Conferencias:</strong> </p>
+<p><strong>Financiación:</strong>.</p>
+<p><strong>Contexto:</strong>.</p>
+<p><strong>Objetivo:</strong>.</p>
+<p><strong>Métodos:</strong>.</p>
+<p><strong>Cohortes:</strong>.</p>
+<p><strong>Conclusiones:</strong> En progreso.</p>
+<p><strong>Impacto:</strong>.</p>
+<p><strong>Artículos:</strong>.</p>
+<p><strong>Conferencias:</strong>.</p>
 <p><strong>Dónde:</strong> Grupo de Epidemiología y genética cardiovascular, Instituto Hospital del Mar de Investigaciones Médicas (Barcelona)</p>
-<p><strong>Años:</strong> 2016-2024 </p>
-<p><strong>Contribuciones:</strong> </p>
- ***Colaboraciones:</strong> </p>
-<p><strong>Legado:</strong> </p>
-<p><strong>Otros enlaces:</strong> </p>
+<p><strong>Años:</strong> 2016-2024.</p>
+<p><strong>Contribuciones:</strong>.</p>
+ ***Colaboraciones:</strong>.</p>
+<p><strong>Legado:</strong>.</p>
+<p><strong>Otros enlaces:</strong>NA</p>
 
 </details>
 
@@ -213,22 +213,22 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 <summary>Ver detalles</summary>
 
 <p><strong>Estado:</strong> Finalizado</p>
-<p><strong>Palabras clave:</strong> </p>
+<p><strong>Palabras clave:</strong>.</p>
 <p><strong>Disciplina:</strong> Virología molecular</p>
-<p><strong>Financiación:</strong> </p>
-<p><strong>Contexto:</strong> </p>
-<p><strong>Objetivo:</strong> </p>
-<p><strong>Métodos:</strong> </p>
-<p><strong>Cohortes:</strong> </p>
-<p><strong>Conclusiones:</strong> </p>
-<p><strong>Impacto:</strong> </p>
-<p><strong>Artículos:</strong> </p>
-<p><strong>Conferencias:</strong> </p>
-<p><strong>Dónde:</strong> </p>
-<p><strong>Años:</strong> </p>
-<p><strong>Contribuciones:</strong> </p>
-<p><strong>Colaboraciones:</strong> </p>
-<p><strong>Legado:</strong> </p>
-<p><strong>Otros enlaces:</strong> </p>
+<p><strong>Financiación:</strong>.</p>
+<p><strong>Contexto:</strong>.</p>
+<p><strong>Objetivo:</strong>.</p>
+<p><strong>Métodos:</strong>.</p>
+<p><strong>Cohortes:</strong>.</p>
+<p><strong>Conclusiones:</strong>.</p>
+<p><strong>Impacto:</strong>.</p>
+<p><strong>Artículos:</strong>.</p>
+<p><strong>Conferencias:</strong>.</p>
+<p><strong>Dónde:</strong>.</p>
+<p><strong>Años:</strong>.</p>
+<p><strong>Contribuciones:</strong>.</p>
+<p><strong>Colaboraciones:</strong>.</p>
+<p><strong>Legado:</strong>.</p>
+<p><strong>Otros enlaces:</strong>NA</p>
 
 </details>
