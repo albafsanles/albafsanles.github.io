@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
-<body class="projects-page">
-
+<body>
   <header>
     <h1>{{ page.title }}</h1>
     <nav>
@@ -27,26 +26,23 @@
     <p>&copy; 2025 Alba Fernández Sanlés</p>
   </footer>
 
-  <!-- CSS específico solo para la página de proyectos -->
   <style>
-    .projects-page details {
+    /* Estilos específicos solo para páginas de proyectos */
+    details {
       margin-bottom: 1em;
       border: 1px solid #ccc;
       padding: 0.5em;
       border-radius: 5px;
       background: #f9f9f9;
     }
-
-    .projects-page summary {
+    summary {
       font-weight: bold;
       cursor: pointer;
       outline: none;
     }
-
-    .projects-page summary::-webkit-details-marker {
+    summary::-webkit-details-marker {
       display: none;
     }
   </style>
-
 </body>
 </html>
