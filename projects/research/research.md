@@ -275,6 +275,7 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
    <a href="https://researchmar.net/programesrecerca/epidemiologia/es_epicardiovascular.html" target="_blank">
  Grupo de Epidemiología y genética cardiovascular, Instituto Hospital del Mar de Investigaciones Médicas (Barcelona)
   </a>
+<p>
 <p><strong>Años:</strong> 2016-2024.</p>
 <p><strong>Contribuciones:</strong> .</p>
 <p><strong>Colaboraciones:</strong> .</p>
