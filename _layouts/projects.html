@@ -1,31 +1,19 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-</head>
-<body>
+---
+---
 
-<header>
-  <h1>{{ page.title }}</h1>
-  <nav>
-    <a href="{{ "/" | relative_url }}">Inicio</a>
-    <a href="{{ "/about/" | relative_url }}">Quién soy</a>
-    <a href="{{ "/projects/" | relative_url }}">Proyectos</a>
-    <a href="{{ "/contact/" | relative_url }}">Contacto</a>
-  </nav>
-</header>
-
-<main>
+<div class="projects-list">
   {{ content }}
-</main>
+</div>
 
-<footer>
-  <p>&copy; 2025 Alba Fernández Sanlés</p>
-</footer>
-
-</body>
-</html>
-
+<style>
+.projects-list details {
+  margin-bottom: 1em;
+  border-left: 3px solid #0a3d62;
+  padding-left: 1em;
+}
+.projects-list summary {
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 0.5em;
+}
+</style>
