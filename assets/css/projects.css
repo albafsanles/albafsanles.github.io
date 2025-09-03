@@ -1,0 +1,39 @@
+/* projects.css - estilos solo para páginas con proyectos */
+
+details {
+    margin-bottom: 1em;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #f9f9f9;
+}
+
+summary {
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+}
+
+summary::-webkit-details-marker {
+    display: none;
+}
+
+/* Espaciado dentro del details */
+details p {
+    margin: 0.5em 0;
+}
+
+/* Resaltar títulos de campos dentro del details */
+details p strong {
+    color: #0a3d62;
+}
+
+/* Opcional: efecto hover en summary */
+summary:hover {
+    color: #1e90ff;
+}
+
+/* Ajuste responsive si quieres que el contenido no se desborde en pantallas pequeñas */
+details p {
+    word-wrap: break-word;
+}
