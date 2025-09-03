@@ -6,6 +6,7 @@ permalink: /projects/
 
 # Portfolio
 *En construcción*
+[Detalles](/projects/portfolio.md)
 
 # Proyectos de investigación
 *En construcción*
@@ -13,8 +14,10 @@ permalink: /projects/
   
 # Proyectos de divulgación
 *En construcción*
+[Detalles de proyectos](/projects/divulgacion/divulgacion.md)
 
 # Proyectos de activismo
 *En construcción*
+[Detalles de proyectos](/projects/activismo/activismo.md)
 
 ***[Inicio](/)***
