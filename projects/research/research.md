@@ -11,6 +11,7 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 ## **Estudio IMPACT en demencia**
 <details>
 <summary>Ver detalles</summary>
+ 
 - ***Estado***: Activo
 - ***Palabras clave***: demencia; residencias; hospitalización; cuidado de la demencia 
 - ***Disciplina***: Ciencias de la salud poblacional; salud mental de la gente mayor
@@ -29,11 +30,13 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 - ***Colaboraciones***: South London & Maudsley NHS Foundation Trust
 - ***Legado***: Marco de análisis replicable en otras cohortes; Vínculo entre investigación y cuidado residencial
 - ***Otros enlaces***: NA
+  
 </details>
 
 ## **CONVALESCENCE Deep phenotyping**
 <details>
 <summary>Ver detalles</summary>
+ 
 - ***Estado***: Activo
 - ***Palabras clave***: COVID persistente; fenotipado profundo; biomarcadores; score de daño fisiológico
 - ***Disciplina***: Ciencias de la salud poblacional; fisiología
@@ -51,12 +54,14 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 - ***Contribuciones***: Diseño analítico de los datos clínicos; Manejo, integración y análisis de datos clínicos; Colaboración multidisciplinar, multicéntrica, y con personas con experiencia vivida; Coordinación de trabajo colaborativo; Producción de artículos y presentaciones
 - ***Colaboraciones***: South London & Maudsley NHS Foundation Trust
 - ***Legado***: Marco multidimensional para la investigación del COVID persistente; Colaboración interdisciplinaria sostenible; Herramientas de investigación para futuras epidemias.
-- ***Otros enlaces***: 
+- ***Otros enlaces***:
+  
 </details>
 
 ## **Infecciones y salud a lo largo de la vida**
 <details>
 <summary>Ver detalles</summary>
+
 - ***Estado***: Activo
 - ***Palabras clave***: 
 - ***Disciplina***: Ciencias de la salud poblacional
@@ -75,11 +80,13 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 - ***Colaboraciones***:
 - ***Legado***: 
 - ***Otros enlaces***: 
+
 </details>
 
 ## **Proteogenómica y fenotipos clínicos y subclínicos**
 <details>
 <summary>Ver detalles</summary>
+
 - ***Estado***: Activo
 - ***Palabras clave***: 
 - ***Disciplina***: Ciencias de la salud poblacional
@@ -97,12 +104,14 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 - ***Contribuciones***:
 - ***Colaboraciones***:
 - ***Legado***: 
-- ***Otros enlaces***: 
+- ***Otros enlaces***:
+  
 </details>
 
 ## **Inflamación y multimorbilidad**
 <details>
 <summary>Ver detalles</summary>
+
 - ***Estado***: Activo
 - ***Palabras clave***: 
 - ***Disciplina***: Ciencias de la salud poblacional
@@ -121,11 +130,13 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 - ***Colaboraciones***:
 - ***Legado***: 
 - ***Otros enlaces***: 
+
 </details>
 
 ## **Determinantes con base genética de eventos adversos del embarazo y perinatales**
 <details>
 <summary>Ver detalles</summary>
+
 - ***Estado***: Activo
 - ***Palabras clave***: 
 - ***Disciplina***: Ciencias de la salud poblacional
@@ -143,12 +154,14 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 - ***Contribuciones***:
 - ***Colaboraciones***:
 - ***Legado***: 
-- ***Otros enlaces***: 
+- ***Otros enlaces***:
+
 </details>
 
 ## **Sesgo de selección en estudios epidemiológicos de COVID**
 <details>
 <summary>Ver detalles</summary>
+
 - ***Estado***: Activo
 - ***Palabras clave***: 
 - ***Disciplina***: Ciencias de la salud poblacional
@@ -167,11 +180,13 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 - ***Colaboraciones***:
 - ***Legado***: 
 - ***Otros enlaces***: 
+
 </details>
 
 ## **Epigenómica de la salud cardiometabólica**
 <details>
 <summary>Ver detalles</summary>
+
 - ***Estado***: Activo
 - ***Palabras clave***: 
 - ***Disciplina***: Ciencias de la salud poblacional
@@ -189,12 +204,14 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 - ***Contribuciones***:
   ***Colaboraciones***:
 - ***Legado***: 
-- ***Otros enlaces***: 
+- ***Otros enlaces***:
+
 </details>
 
 ## **Virología molecular**
 <details>
 <summary>Ver detalles</summary>
+
 - ***Estado***: Finalizado
 - ***Palabras clave***: 
 - ***Disciplina***: Virología molecular
@@ -212,4 +229,6 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 - ***Contribuciones***:
 - ***Colaboraciones***:
 - ***Legado***: 
-- ***Otros enlaces***: 
+- ***Otros enlaces***:
+
+</details>
