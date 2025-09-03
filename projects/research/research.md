@@ -1,5 +1,5 @@
 ---
-layout: projects-layout
+layout: projects
 title: "Investigación"
 permalink: /projects/research/
 ---
