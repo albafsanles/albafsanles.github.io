@@ -19,7 +19,7 @@ Aquí puedes ver los proyectos de comunicación y compromiso público de la cien
 <p><strong>Objetivos:</strong> Comunicar sobre la vida investigadora, temas de interés biomédico, y concienciación en sostenibilidad, causas medioambientales, equidad y género desde una perspectiva interseccional y global. Explorar la relación entre humanismo y ciencia. Visibilizar perfiles científicos en el imaginario colectivo. Crear una red de confianza interesada en mi trabajo y actividades. </p>
 <p><strong>Métodos:</strong> Stories, posts. Centrados en texto escrito como formato de comunicación.</p>
 <p><strong>Comunidad diana:</strong> Gallega, Diáspora en Reino Unido, Mi red internacional</p>
-<p><strong>Impacto:</strong> Numerosos consumidores del contenido, baja participación e interacción</p>
+<p><strong>Impacto:</strong> 486 seguidores; decenas a cientos consumidores del contenido; baja participación e interacción (N<10 en general) </p>
 <p><strong>Años:</strong> 2023-2025</p>
 <p><strong>Contribuciones:</strong> Trabajo individual</p>
 <p><strong>Legado:</strong> Contenido publicado para consulta e inspiración; Red para futuras actividades de divulgación y colaboración en estudios </p>
