@@ -9,7 +9,8 @@ permalink: /projects/research/
 Aquí puedes ver los proyectos de investigación en los que he trabajado:
 
 <details>
-<summary>## **Estudio IMPACT en demencia**</summary>
+<summary>Ver detalles</summary>
+ ## **Estudio IMPACT en demencia**
 - ***Estado***: Activo
 - ***Palabras clave***: demencia; residencias; hospitalización; cuidado de la demencia 
 - ***Disciplina***: Ciencias de la salud poblacional; salud mental de la gente mayor
@@ -31,7 +32,8 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 </details>
 
 <details>
-<summary>## **CONVALESCENCE Deep phenotyping**</summary>
+<summary>Ver detalles</summary>
+## **CONVALESCENCE Deep phenotyping**
 - ***Estado***: Activo
 - ***Palabras clave***: COVID persistente; fenotipado profundo; biomarcadores; score de daño fisiológico
 - ***Disciplina***: Ciencias de la salud poblacional; fisiología
@@ -53,7 +55,8 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 </details>
 
 <details>
-<summary>## **Infecciones y salud a lo largo de la vida**</summary>
+<summary>Ver detalles</summary>
+## **Infecciones y salud a lo largo de la vida**
 - ***Estado***: Activo
 - ***Palabras clave***: 
 - ***Disciplina***: Ciencias de la salud poblacional
@@ -75,7 +78,8 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 </details>
 
 <details>
-<summary>## **Proteogenómica y fenotipos clínicos y subclínicos**</summary>
+<summary>Ver detalles</summary>
+## **Proteogenómica y fenotipos clínicos y subclínicos**
 - ***Estado***: Activo
 - ***Palabras clave***: 
 - ***Disciplina***: Ciencias de la salud poblacional
@@ -97,7 +101,8 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 </details>
 
 <details>
-<summary>## **Inflamación y multimorbilidad**</summary>
+<summary>Ver detalles</summary>
+## **Inflamación y multimorbilidad**
 - ***Estado***: Activo
 - ***Palabras clave***: 
 - ***Disciplina***: Ciencias de la salud poblacional
@@ -119,7 +124,8 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 </details>
 
 <details>
-<summary>## **Determinantes de eventos adversos del embarazo y perinatales**</summary>
+<summary>Ver detalles</summary>
+## **Determinantes con base genética de eventos adversos del embarazo y perinatales**
 - ***Estado***: Activo
 - ***Palabras clave***: 
 - ***Disciplina***: Ciencias de la salud poblacional
@@ -141,7 +147,8 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 </details>
 
 <details>
-<summary>## **Sesgo de selección en estudios epidemiológicos de COVID**</summary>
+<summary>Ver detalles</summary>
+## **Sesgo de selección en estudios epidemiológicos de COVID**
 - ***Estado***: Activo
 - ***Palabras clave***: 
 - ***Disciplina***: Ciencias de la salud poblacional
@@ -163,7 +170,8 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 </details>
 
 <details>
-<summary>## **Epigenómica de la salud cardiometabólica**</summary>
+<summary>Ver detalles</summary>
+## **Epigenómica de la salud cardiometabólica**
 - ***Estado***: Activo
 - ***Palabras clave***: 
 - ***Disciplina***: Ciencias de la salud poblacional
@@ -185,7 +193,8 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 </details>
 
 <details>
-<summary>## **Virología molecular**</summary>
+<summary>Ver detalles</summary>
+## **Virología molecular**
 - ***Estado***: Finalizado
 - ***Palabras clave***: 
 - ***Disciplina***: Virología molecular
