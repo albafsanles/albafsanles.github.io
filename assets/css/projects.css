@@ -1,17 +1,20 @@
-/* projects.css */
+/* Integración de estilos Modernist */
 
-/* Tipografía general para esta página */
+/* Fuente y tipografía */
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400;600&display=swap');
+
 body {
-    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
     background: #fdfdfd;
     color: #333;
 }
 
-/* Encabezado de la página */
+/* Encabezado */
 header {
-    background: #0a3d62; /* azul oscuro */
+    background: #0a3d62;
     color: white;
     padding: 1.5em 1em;
     text-align: center;
@@ -40,9 +43,9 @@ main {
     padding: 0 1.5em;
 }
 
-/* Estilos para subtítulos de proyectos */
+/* Títulos de proyectos */
 main h2 {
-    background: #2c3e50; /* azul grisáceo oscuro */
+    background: #2c3e50;
     color: #fff;
     padding: 0.5em 1em;
     border-radius: 5px;
@@ -60,13 +63,13 @@ details {
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
-/* El resumen que se ve siempre */
+/* Resumen */
 summary {
     font-weight: bold;
     cursor: pointer;
     outline: none;
     font-size: 1.1em;
-    color: #0a3d62; /* azul oscuro */
+    color: #0a3d62;
 }
 
 /* Ocultar marcador por defecto */
@@ -74,13 +77,13 @@ summary::-webkit-details-marker {
     display: none;
 }
 
-/* Espacio entre párrafos dentro de <details> */
+/* Párrafos dentro de <details> */
 details p {
     margin: 0.5em 0;
     line-height: 1.5em;
 }
 
-/* Footer */
+/* Pie de página */
 footer {
     background: #eee;
     color: #555;
