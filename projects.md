@@ -9,7 +9,8 @@ permalink: /projects/
 
 # Proyectos de investigación
 *En construcción*
-
+- [Investigación 1](/projects/research.md)
+- 
 # Proyectos de divulgación
 *En construcción*
 
