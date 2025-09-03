@@ -8,7 +8,7 @@ permalink: /projects/divulgacion/
 
 Aquí puedes ver los proyectos de comunicación y compromiso público de la ciencia en los que he trabajado:
 
-## **Divulgación y conciación en plataformas digitales populares**
+## **Divulgación y concienciación en plataformas digitales populares**
 <details>
 <summary>Ver detalles</summary>
 <p><strong>Estado:</strong> Activo</p>
