@@ -37,7 +37,7 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 <details>
 <summary>Ver detalles</summary>
  
-<p><strong>Estado:</strong> Activo
+<p><strong>Estado:</strong> Activo </p>
 <p><strong>Palabras clave:</strong> COVID persistente; fenotipado profundo; biomarcadores; score de daño fisiológico</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional; fisiología</p>
 <p><strong>Financiación:</strong> NIHR-UKRI</p>
@@ -202,7 +202,7 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 <p><strong>Dónde:</strong> Grupo de Epidemiología y genética cardiovascular, Instituto Hospital del Mar de Investigaciones Médicas (Barcelona)</p>
 <p><strong>Años:</strong> 2016-2024.</p>
 <p><strong>Contribuciones:</strong>.</p>
- ***Colaboraciones:</strong>.</p>
+</strong>.</p>Colaboraciones:</strong>.</p>
 <p><strong>Legado:</strong>.</p>
 <p><strong>Otros enlaces:</strong>NA</p>
 
