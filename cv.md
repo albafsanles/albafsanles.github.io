@@ -4,7 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-# Formato tradicional de mi perfil profesional
 Aquí puedes descargar mi CV más reciente:
 
 ## Curriculum Vitae
