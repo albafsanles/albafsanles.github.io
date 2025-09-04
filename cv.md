@@ -4,15 +4,18 @@ title: CV
 permalink: /cv/
 ---
 
-# Curriculum Vitae
+# Formato tradicional de mi perfil profesional
+Aquí puedes descargar mi CV más reciente:
 
-Puedes descargar mi CV más reciente en PDF:
+## Curriculum Vitae
+
+Puedes descargar mi CV en PDF:
 
 *Actualizando...*
 [Descargar CV](assets/files/AlbaFernandezSanles_CV_202509.pdf)
 
-# Carta de presentación (CV narrativo)
+## Carta de presentación (CV narrativo)
 
-Puedes descargar mi CV narrativo más reciente en PDF:
+Puedes descargar mi CV narrativo en PDF:
 
 *Actualizando...*
