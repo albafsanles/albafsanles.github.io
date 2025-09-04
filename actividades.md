@@ -4,7 +4,6 @@ title: "Proyectos y actividades"
 permalink: /projects/
 ---
 
-# Proyectos de investigación
 Aquí puedes ver los proyectos en los que he trabajado. Puedes ver detalles sobre ellos siguiendo los enlaces en cada sección.
 
 ## Portfolio
