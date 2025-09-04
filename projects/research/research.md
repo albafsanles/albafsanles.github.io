@@ -8,7 +8,8 @@ permalink: /projects/research/
 
 Aquí puedes ver los proyectos de investigación en los que he trabajado:
 
-## **Estudio IMPACT en demencia (cuidados)**
+## **Estudio IMPACT en demencia**
+Estudio sobre cuidados y apoyo de personas con demencia para identificar factores modificables asociados con hospitalizaciones de este grupo poblacional
 <details>
 <summary>Ver detalles</summary>
  
@@ -55,7 +56,8 @@ Aquí puedes ver los proyectos de investigación en los que he trabajado:
 
 </details>
 
-## **CONVALESCENCE Deep phenotyping (caracterización de COVID persistente)**
+## **CONVALESCENCE Deep phenotyping**
+Proyecto nacional, multidisciplinar y multicéntrico para caracterizar el COVID persistente y su relación con daño/disfunción sistémica/orgánica
 <details>
 <summary>Ver detalles</summary>
  
@@ -106,7 +108,8 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
  
 </details>
 
-## **Infecciones y salud a lo largo de la vida (memoria de infecciones, enfermedades asociadas al envejecimiento y fragilidad)**
+## **Infecciones y salud a lo largo de la vida**
+Estudio sobre memoria inmmunológica de infecciones comunes y enfermedades asociadas al envejecimiento y fragilidad
 <details>
 <summary>Ver detalles</summary>
 
@@ -139,7 +142,8 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
 
 </details>
 
-## **Determinantes con base genética de fenotipos subclínicos y clínicos (MR-PheWAS)**
+## **Determinantes con base genética de fenotipos subclínicos y clínicos**
+Estudios de inferencia causal basada en marcadores genéticos (Mendelian randomization)
 <details>
 <summary>Ver detalles</summary>
 
@@ -164,7 +168,8 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
  
 </details>
 
-## **Inflamación y multimorbilidad (proteogenómica e inferencia causal)**
+## **Inflamación y multimorbilidad**
+Estudio multicohorte de base proteogenómica e inferencia causal para identificar oportunidades de reposicionamiento de fármacos para tratar enfermedades comunes
 <details>
 <summary>Ver detalles</summary>
 
@@ -193,7 +198,8 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
 
 </details>
 
-## **Determinantes con base genética de eventos adversos del embarazo y perinatales (triangulación en múltiples cohortes - MR-PREG)**
+## **Determinantes con base genética de eventos adversos del embarazo y perinatales**
+Consorcio que aplica triangulación de estudios observacionales en múltiples cohortes (MR-PREG) para avanzar el conocimiento de la salud durante y después del embarazo en madres, fetos y neonatos
 <details>
 <summary>Ver detalles</summary>
 
@@ -226,7 +232,8 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
 
 </details>
 
-## **Sesgo de selección en estudios epidemiológicos de COVID-19 (COVIDITY)**
+## **Sesgo de selección en estudios epidemiológicos de COVID-19**
+Proyecto sobre limitaciones de estudios epidemiológicos sobre COVID-19, parte del proyecto nacional COVIDITY
 <details>
 <summary>Ver detalles</summary>
 
@@ -255,7 +262,8 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
 
 </details>
 
-## **Epigenómica de la salud cardiometabólica (EWAS en múltiples cohortes)**
+## **Epigenómica de la salud cardiometabólica**
+Estudios EWAS en múltiples cohortes para identificar marcadores de metilación del ADN asociados a infarto, otros fenotipos clínicos y subclínicos cardiometabólicos, y factores externos y de estilo de vida relacionados
 <details>
 <summary>Ver detalles</summary>
 
@@ -284,7 +292,8 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
 
 </details>
 
-## **Virología molecular (HIV, HCV, flavivirus emergentes)**
+## **Virología molecular**
+Estudios experimentales para entender mejor la biología molecular de los virus HIV, HCV y flavivirus emergentes
 <details>
 <summary>Ver detalles</summary>
 
