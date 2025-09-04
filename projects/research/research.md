@@ -9,7 +9,7 @@ permalink: /projects/research/
 Aquí puedes ver los proyectos de investigación en los que he trabajado:
 
 ## **Estudio IMPACT en demencia**
-Estudio sobre cuidados y apoyo de personas con demencia para identificar factores modificables asociados con hospitalizaciones de este grupo poblacional
+Estudio para identificar factores modificables asociados con hospitalizaciones de personas con demencia. 
 <details>
 <summary>Ver detalles</summary>
  
@@ -21,27 +21,27 @@ Estudio sobre cuidados y apoyo de personas con demencia para identificar factore
  The Geller Commision
   </a>
 </p>
-<p><strong>Contexto:</strong> Las personas con demencia presentan peor pronóstico tras hospitalizaciones por causas médicas generales. Aún se conoce poco sobre cómo reducir ingresos hospitalarios evitables en este grupo.</p>
-<p><strong>Objetivo:</strong> Identificar factores modificables que puedan priorizarse en estudios de intervención para reducir las estancias hospitalarias en personas con demencia.</p>
-<p><strong>Métodos:</strong> Revisión sistemática; Estudio observacional de cohortes y registros electrónicos de salud; Modelización estadística avanzada (análisis longitudinal — modelos de regresión de riesgos competitivos, modelos de regresión negativa binomial).</p>
-<p><strong>Cohortes:</strong> Inglesas; datos del estudio MARQUE en residencias y de South London & Maudsley NHS Foundation Trust</p>
-<p><strong>Conclusiones:</strong> En progreso; se esperan resultados a finales de 2025</p>
-<p><strong>Impacto:</strong> Evidencia para diseñar estudios de intervención para reducir hospitalizaciones innecesarias de personas con demencia, y mejorar políticas de cuidado en residencias, optimización de la polifarmacia, formación de profesionales sanitarios</p>
-<p><strong>Artículos:</strong> Tres publicaciones previstas en revistas de salud poblacional y geriatría; un estudio de Master como supervisora sin publicar</p>
-<p><strong>Conferencias:</strong> Resultados preliminares presentados en la Conferencia Internacional de la Asociación de Alzheimer's, AAIC (Julio 2025, Toronto)</p>
 <p><strong>Dónde:</strong> 
   <a href="https://www.ucl.ac.uk/brain-sciences/psychiatry" target="_blank">
  División de Psiquiatría, University College London
   </a>
 </p>
 <p><strong>Años:</strong> 2024-2025</p>
+<p><strong>Contexto:</strong> Las personas con demencia presentan peor pronóstico tras hospitalizaciones por causas médicas generales. Aún se conoce poco sobre cómo reducir ingresos hospitalarios evitables en este grupo.</p>
+<p><strong>Objetivo:</strong> Identificar factores modificables que puedan priorizarse en estudios de intervención para reducir las estancias hospitalarias en personas con demencia.</p>
+<p><strong>Métodos:</strong> Revisión sistemática; Estudio observacional de cohortes y registros electrónicos de salud; Modelización estadística avanzada (análisis longitudinal — modelos de regresión de riesgos competitivos, modelos de regresión negativa binomial).</p>
+<p><strong>Cohortes:</strong> Población inglesa; datos del estudio MARQUE en residencias y del South London & Maudsley NHS Foundation Trust</p>
+<p><strong>Conclusiones:</strong> En progreso; se esperan resultados a finales de 2025</p>
+<p><strong>Impacto:</strong> Evidencia para diseñar estudios de intervención para reducir hospitalizaciones innecesarias de personas con demencia, y mejorar políticas de cuidado en residencias, optimización de la polifarmacia, formación de profesionales sanitarios</p>
+<p><strong>Artículos:</strong> Tres publicaciones previstas en revistas de salud poblacional y geriatría; un trabajo de Máster como supervisora</p>
+<p><strong>Conferencias:</strong> Resultados preliminares presentados en la Conferencia Internacional de la Asociación de Alzheimer's, AAIC (Julio 2025, Toronto)</p>
 <p><strong>Contribuciones:</strong> Diseño; Revisión; Manejo y análisis de datos longitudinales y de registros electrónicos de salud; Integración de datos clínicos y comunitarios; Colaboración con personas con experiencia vivida; Producción de artículos y presentaciones</p>
 <p><strong>Colaboraciones:</strong> 
   <a href="https://www.maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/" target="_blank">
  South London & Maudsley NHS Foundation Trust
   </a>
 </p>
-<p><strong>Legado:</strong> Marco de análisis replicable en otras cohortes; Vínculo entre investigación y cuidado residencial</p>
+<p><strong>Legado:</strong> Marco de análisis replicable en otras cohortes; Vínculo entre investigación y cuidado residencial; Informe para políticas en salud</p>
 <p><strong>Enlaces:</strong> 
   <a href="https://www.ucl.ac.uk/brain-sciences/news/2025/apr/ucl-partners-geller-commission-advance-research-dementia-related-hospitalisations" target="_blank">
     IMPACT project; 
@@ -72,10 +72,16 @@ Proyecto nacional, multidisciplinar y multicéntrico para caracterizar el COVID 
   UKRI
  </a>
 </p>
+<p><strong>Dónde:</strong> 
+    <a href="https://www.ucl.ac.uk/population-health-sciences/cardiovascular/research/research-department-population-science-and-experimental-medicine/unit-lifelong-health-and-ageing-ucl/studies" target="_blank">
+Unidad de Salud a lo largo de la vida y envejecimiento, University College London
+    </a>
+</p>
+<p><strong>Años:</strong> 2023-2025</p>
 <p><strong>Contexto:</strong> Existe poca claridad sobre qué es el COVID persistente y su relación con daño o disfunción subclínica en múltiples órganos y sistemas fisiológicos. El estudio multicéntrico es parte del National Core Study UK sobre salud y bienestar tras COVID-19, y busca llenar ese vacío.</p>
 <p><strong>Objetivo:</strong> Definir fenotipos de COVID persistente; Identificar factores de riesgo y trayectorias mecanísticas; Explorar consecuencias en salud física, mental, trabajo y relaciones; Mejorar diagnóstico y manejo en atención primaria.</p>
 <p><strong>Métodos:</strong> Análisis de datos de cohortes poblacionales; Fenotipado profundo clínico (medidas fisiológicas, imagen cerebral, cardíaca, pulmonar, renal, hepática, medidas de fuerza y resistencia; Monitorización remota.</p>
-<p><strong>Cohortes:</strong> Inglesas; ALSPAC, TwinsUK</p>
+<p><strong>Cohortes:</strong> Población británica; ALSPAC, TwinsUK</p>
 <p><strong>Conclusiones:</strong> En progreso; se esperan resultados a finales de 2025</p>
 <p><strong>Impacto:</strong> Evidencia para definiciones operativas de COVID persistente; informar políticas clínicas y diagnósticas; apoyar a NICE en directrices de atención primaria.</p>
 <p><strong>Artículos:</strong> 
@@ -85,12 +91,6 @@ Proyecto nacional, multidisciplinar y multicéntrico para caracterizar el COVID 
  Dos publicaciones más por publicar en revistas de salud poblacional de alto impacto
 </p>
 <p><strong>Conferencias:</strong> Presentaciones en foros nacionales; Conferencia Mundial de Epidemiología, WCE (Septiembre 2024, Ciudad del Cabo)</p>
-<p><strong>Dónde:</strong> 
-    <a href="https://www.ucl.ac.uk/population-health-sciences/cardiovascular/research/research-department-population-science-and-experimental-medicine/unit-lifelong-health-and-ageing-ucl/studies" target="_blank">
-Unidad de Salud a lo largo de la vida y envejecimiento, University College London
-    </a>
-</p>
-<p><strong>Años:</strong> 2023-2025</p>
 <p><strong>Contribuciones:</strong> Diseño analítico de los datos clínicos; Manejo, integración y análisis de datos clínicos; Colaboración multidisciplinar, multicéntrica, y con personas con experiencia vivida; Coordinación de trabajo colaborativo; Producción de artículos y presentaciones</p>
 <p><strong>Colaboraciones:</strong> University of Bristol, King's College London, University of Oxford, University of Sheffield </p>
 <p><strong>Legado:</strong> Marco multidimensional para la investigación del COVID persistente; Colaboración interdisciplinaria sostenible; Herramientas de investigación para futuras epidemias.</p>
@@ -117,22 +117,28 @@ Estudio sobre memoria inmmunológica de infecciones comunes y enfermedades asoci
 <p><strong>Palabras clave:</strong> .</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
 <p><strong>Financiación:</strong> .</p>
-<p><strong>Contexto:</strong> .</p>
-<p><strong>Objetivo:</strong> .</p>
-<p><strong>Métodos:</strong> .</p>
-<p><strong>Cohortes:</strong> .</p>
-<p><strong>Conclusiones:</strong> En progreso.</p>
-<p><strong>Impacto:</strong> .</p>
-<p><strong>Artículos:</strong> .</p>
-<p><strong>Conferencias:</strong> .</p>
 <p><strong>Dónde:</strong> 
      <a href="https://www.ucl.ac.uk/population-health-sciences/cardiovascular/research/research-department-population-science-and-experimental-medicine/unit-lifelong-health-and-ageing-ucl/studies" target="_blank">
 Unidad de Salud a lo largo de la vida y envejecimiento, University College London
     </a>
 </p>
 <p><strong>Años:</strong> 2023-2025</p>
-<p><strong>Contribuciones:</strong> .</p>
-<p><strong>Colaboraciones:</strong> .</p>
+<p><strong>Contexto:</strong> .</p>
+<p><strong>Objetivo:</strong> .</p>
+<p><strong>Métodos:</strong> .</p>
+<p><strong>Cohortes:</strong> .</p>
+<p><strong>Conclusiones:</strong> En progreso.</p>
+<p><strong>Impacto:</strong> .</p>
+<p><strong>Artículos:</strong> 
+  <a href="https://www.medrxiv.org/content/10.1101/2024.02.17.24302569v2" target="_blank">
+  Preprint sobre un estudio multicohorte sobre APOE e infecciones comunes; 
+  </a>
+  Más estudios liderados por estudiantes por publicar; 
+  Un estudio sobre infecciones comunes y fragilidad y mortalidad por publicar.
+</p>
+<p><strong>Conferencias:</strong> NA</p>
+<p><strong>Contribuciones:</strong> Coautora y cosupervisora </p>
+<p><strong>Colaboraciones:</strong> NA</p>
 <p><strong>Legado:</strong> .</p>
 <p><strong>Enlaces:</strong>   
  <a href="https://www.ucl.ac.uk/population-health-sciences/cardiovascular/research/research-department-population-science-and-experimental-medicine/unit-lifelong-health-and-ageing-ucl/studies" target="_blank">
@@ -151,18 +157,19 @@ Estudios de inferencia causal basada en marcadores genéticos (Mendelian randomi
 <p><strong>Palabras clave:</strong> .</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
 <p><strong>Financiación:</strong> .</p>
+<p><strong>Dónde:</strong> Colaboración externa; UCL </p>
+<p><strong>Años:</strong> .</p>
 <p><strong>Contexto:</strong> .</p>
 <p><strong>Objetivo:</strong> .</p>
 <p><strong>Métodos:</strong> .</p>
 <p><strong>Cohortes:</strong> .</p>
 <p><strong>Conclusiones:</strong> En progreso .</p>
 <p><strong>Impacto:</strong> .</p>
-<p><strong>Artículos:</strong> Tres publicaciones previstas como co-autora.</p>
-<p><strong>Conferencias:</strong> .</p>
-<p><strong>Dónde:</strong> Colaboración externa </p>
-<p><strong>Años:</strong> .</p>
-<p><strong>Contribuciones:</strong> .</p>
-<p><strong>Colaboraciones:</strong> .</p>
+<p><strong>Artículos:</strong> Tres publicaciones previstas como co-autora. 
+Un trabajo de Grado en Biotecnología de la Universidad Francisco de Victoria como supervisora (Sobresaliente)</p>
+<p><strong>Conferencias:</strong> NA</p>
+<p><strong>Contribuciones:</strong> Coautora y cosupervisora; diseño del plan analítico </p>
+<p><strong>Colaboraciones:</strong> Instituto de Investigaciones Médicas Hospital del Mar</p>
 <p><strong>Legado:</strong> .</p>
 <p><strong>Otros enlaces:</strong>NA</p>
  
@@ -177,6 +184,12 @@ Estudio multicohorte de base proteogenómica e inferencia causal para identifica
 <p><strong>Palabras clave:</strong> .</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
 <p><strong>Financiación:</strong> .</p>
+<p><strong>Dónde:</strong> 
+ <a href="https://www.bristol.ac.uk/integrative-epidemiology/research/womens-health/" target="_blank">
+ Unidad MRC de Epidemiología Integrativa en la Universidad de Bristol
+  </a>
+</p>
+<p><strong>Años:</strong> 2020-2025</p>
 <p><strong>Contexto:</strong> .</p>
 <p><strong>Objetivo:</strong> .</p>
 <p><strong>Métodos:</strong> .</p>
@@ -184,15 +197,14 @@ Estudio multicohorte de base proteogenómica e inferencia causal para identifica
 <p><strong>Conclusiones:</strong> En progreso.</p>
 <p><strong>Impacto:</strong> .</p>
 <p><strong>Artículos:</strong> Una publicación prevista como primera autora. </p>
-<p><strong>Conferencias:</strong> Conferencia de la Sociedad Internacional de Epidemiología Genética, IGES (Septiembre 2022, Paris); múltiples conferencias regionales y nacionales en Reino Unido. </p>
-<p><strong>Dónde:</strong> 
- <a href="https://www.bristol.ac.uk/integrative-epidemiology/research/womens-health/" target="_blank">
- Unidad MRC de Epidemiología Integrativa en la Universidad de Bristol
+<p><strong>Conferencias:</strong> 
+  <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/gepi.22503" target="_blank">
+ Conferencia de la Sociedad Internacional de Epidemiología Genética, IGES (Septiembre 2022, Paris); 
   </a>
+ Múltiples conferencias regionales y nacionales en Reino Unido. 
 </p>
-<p><strong>Años:</strong> 2020-2025</p>
-<p><strong>Contribuciones:</strong> .</p>
-<p><strong>Colaboraciones:</strong> .</p>
+<p><strong>Contribuciones:</strong> Diseño; Manejo y análisis secundarios de datos genéticos; Análisis de redes de interacción entre proteínas; Manejo y análisis de bases de datos de fármacos; Producción de artículos y presentaciones</p>
+<p><strong>Colaboraciones:</strong> Multimorbidity Mechanism and Therapeutics Research Collaborative (MMTRC) </p>
 <p><strong>Legado:</strong> .</p>
 <p><strong>Otros enlaces:</strong>NA</p>
 
@@ -207,6 +219,12 @@ Consorcio que aplica triangulación de estudios observacionales en múltiples co
 <p><strong>Palabras clave:</strong> .</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
 <p><strong>Financiación:</strong> .</p>
+<p><strong>Dónde:</strong> 
+  <a href="https://www.bristol.ac.uk/integrative-epidemiology/research/womens-health/" target="_blank" rel="noopener">
+    Unidad MRC de Epidemiología Integrativa en la Universidad de Bristol
+  </a>
+</p>
+<p><strong>Años:</strong> 2024-2025</p>
 <p><strong>Contexto:</strong> .</p>
 <p><strong>Objetivo:</strong> .</p>
 <p><strong>Métodos:</strong> .</p>
@@ -217,16 +235,21 @@ Consorcio que aplica triangulación de estudios observacionales en múltiples co
 </p>
 <p><strong>Conclusiones:</strong> En progreso.</p>
 <p><strong>Impacto:</strong> .</p>
-<p><strong>Artículos:</strong> .</p>
-<p><strong>Conferencias:</strong> .</p>
-<p><strong>Dónde:</strong> 
-  <a href="https://www.bristol.ac.uk/integrative-epidemiology/research/womens-health/" target="_blank" rel="noopener">
-    Unidad MRC de Epidemiología Integrativa en la Universidad de Bristol
-  </a>
+<p><strong>Artículos:</strong> 
+<a href="https://pubmed.ncbi.nlm.nih.gov/38281920/" target="_blank">
+  Estudio sobre índice de masa corporal materno y eventos adversos del embarazo y perinatales; 
+</a>
+ <a href="https://pubmed.ncbi.nlm.nih.gov/37904919/" target="_blank">
+  Estudio sobre proteoma materno y fetal e índice de masa corporal materno; 
+ </a>
+ <a href="https://www.medrxiv.org/content/10.1101/2025.03.22.25324447v1" target="_blank">
+  Perfil de cohorte;   
+ </a>
+Posibles artículos de estudiantes
 </p>
-<p><strong>Años:</strong> 2024-2025</p>
-<p><strong>Contribuciones:</strong> .</p>
-<p><strong>Colaboraciones:</strong> .</p>
+<p><strong>Conferencias:</strong> NA</p>
+<p><strong>Contribuciones:</strong> Manejo de datos longitudinales en ALSPAC; Producción de variables analíticas en ALSPAC; Bases del Consorcio MR-PREG; Revisión de código de variables analíticas en BiB; Apoyo a estudiantes y colegas más junior; GWAS en BiB; Co-autoría de artículos</p>
+<p><strong>Colaboraciones:</strong> MR-PREG</p>
 <p><strong>Legado:</strong> .</p>
 <p><strong>Otros enlaces:</strong>NA </p>
 
@@ -241,6 +264,12 @@ Proyecto sobre limitaciones de estudios epidemiológicos sobre COVID-19, parte d
 <p><strong>Palabras clave:</strong> .</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
 <p><strong>Financiación:</strong> .</p>
+<p><strong>Dónde:</strong> 
+  <a href="https://www.bristol.ac.uk/integrative-epidemiology/research/womens-health/" target="_blank">
+ Unidad MRC de Epidemiología Integrativa en la Universidad de Bristol
+  </a>
+</p>
+<p><strong>Años:</strong> 2020-2024</p>
 <p><strong>Contexto:</strong> .</p>
 <p><strong>Objetivo:</strong> .</p>
 <p><strong>Métodos:</strong> .</p>
@@ -249,12 +278,6 @@ Proyecto sobre limitaciones de estudios epidemiológicos sobre COVID-19, parte d
 <p><strong>Impacto:</strong> .</p>
 <p><strong>Artículos:</strong> 2 artículos como primera co-autora; 1 artículo como co-autora.</p>
 <p><strong>Conferencias:</strong> .</p>
-<p><strong>Dónde:</strong> 
-  <a href="https://www.bristol.ac.uk/integrative-epidemiology/research/womens-health/" target="_blank">
- Unidad MRC de Epidemiología Integrativa en la Universidad de Bristol
-  </a>
-</p>
-<p><strong>Años:</strong> 2020-2024</p>
 <p><strong>Contribuciones:</strong> .</p>
 <p><strong>Colaboraciones:</strong> .</p>
 <p><strong>Legado:</strong> .</p>
@@ -271,6 +294,12 @@ Estudios EWAS en múltiples cohortes para identificar marcadores de metilación 
 <p><strong>Palabras clave:</strong> .</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
 <p><strong>Financiación:</strong> .</p>
+<p><strong>Dónde:</strong> 
+   <a href="https://researchmar.net/programesrecerca/epidemiologia/es_epicardiovascular.html" target="_blank">
+ Grupo de Epidemiología y genética cardiovascular, Instituto Hospital del Mar de Investigaciones Médicas (Barcelona)
+  </a>
+</p>
+<p><strong>Años:</strong> 2016-2024.</p>
 <p><strong>Contexto:</strong> .</p>
 <p><strong>Objetivo:</strong> .</p>
 <p><strong>Métodos:</strong> .</p>
@@ -279,12 +308,6 @@ Estudios EWAS en múltiples cohortes para identificar marcadores de metilación 
 <p><strong>Impacto:</strong> .</p>
 <p><strong>Artículos:</strong> Cuatro artículos como primera autora; un artículo como co-supervisora; nueve artículos como coautora; un artículo como supervisora sin publicar </p>
 <p><strong>Conferencias:</strong> .</p>
-<p><strong>Dónde:</strong> 
-   <a href="https://researchmar.net/programesrecerca/epidemiologia/es_epicardiovascular.html" target="_blank">
- Grupo de Epidemiología y genética cardiovascular, Instituto Hospital del Mar de Investigaciones Médicas (Barcelona)
-  </a>
-</p>
-<p><strong>Años:</strong> 2016-2024.</p>
 <p><strong>Contribuciones:</strong> .</p>
 <p><strong>Colaboraciones:</strong> .</p>
 <p><strong>Legado:</strong> .</p>
@@ -301,6 +324,8 @@ Estudios experimentales para entender mejor la biología molecular de los virus 
 <p><strong>Palabras clave:</strong> .</p>
 <p><strong>Disciplina:</strong> Virología molecular</p>
 <p><strong>Financiación:</strong> .</p>
+<p><strong>Dónde:</strong> .</p>
+<p><strong>Años:</strong> .</p>
 <p><strong>Contexto:</strong> .</p>
 <p><strong>Objetivo:</strong> .</p>
 <p><strong>Métodos:</strong> .</p>
@@ -309,8 +334,6 @@ Estudios experimentales para entender mejor la biología molecular de los virus 
 <p><strong>Impacto:</strong> .</p>
 <p><strong>Artículos:</strong> 2 artículos como primera autora</p>
 <p><strong>Conferencias:</strong> .</p>
-<p><strong>Dónde:</strong> .</p>
-<p><strong>Años:</strong> .</p>
 <p><strong>Contribuciones:</strong> .</p>
 <p><strong>Colaboraciones:</strong> .</p>
 <p><strong>Legado:</strong> .</p>
