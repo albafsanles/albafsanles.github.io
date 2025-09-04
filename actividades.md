@@ -19,5 +19,3 @@ permalink: /projects/
 # Proyectos de activismo
 *En construcción*
 [Detalles de proyectos](/projects/activismo/activismo.md)
-
-***[Inicio](/)***
