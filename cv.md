@@ -1,4 +1,4 @@
----
+i---
 layout: projects
 title: CV
 permalink: /cv/
@@ -8,10 +8,10 @@ Aquí puedes descargar mi CV más reciente:
 
 ## Curriculum Vitae
 
-Puedes descargar mi CV en PDF:
+Puedes descargar mi CV no académico en inglés en el enlace siguiente:
 
 *Actualizando...*
-[Descargar CV](assets/files/AlbaFernandezSanles_CV_202509.pdf)
+[Descargar CV](assets/files/AlbaFernandezSanles_CV_202509_noacad_eng.pdf)
 
 ## Carta de presentación (CV narrativo)
 
