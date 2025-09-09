@@ -1,4 +1,4 @@
-i---
+---
 layout: projects
 title: CV
 permalink: /cv/
