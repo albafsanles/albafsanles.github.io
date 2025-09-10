@@ -20,7 +20,7 @@ Campaña para la Alzheimer's Society
     </a>
 </p>
 <p><strong>Por quién:</strong> En memoria de mi abuela</p>
-<p><strong>Historia:</strong> <p>El equipo "OS PASOS DE ROSA" participamos en la caminata por la memoria organizada por la Sociedad británica para el Alzheimer (Alzheimer’s Society) en Londres.
+<p><strong>Historia:</strong> El equipo "OS PASOS DE ROSA" participamos en la caminata por la memoria organizada por la Sociedad británica para el Alzheimer (Alzheimer’s Society) en Londres.
 Cada paso que daremos en la caminata por la memoria será por mi abuela Rosa y por todas las personas que viven con demencia, en ellas mismas o en sus seres queridos. Haz que esta caminata popular cuente: dona y acompáñanos. Tu donación ayudará a la Alzheimer’s Society a que siga ofreciendo apoyo y acompañamiento y a reescribir la historia de la demencia. Ahora, permíteme que te cuente nuestra historia con la demencia.
 </p>
 
