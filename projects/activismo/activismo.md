@@ -117,6 +117,8 @@ Expedición de mujeres científicas y profesionales de la sostenibilidad parte d
 <p><strong>Historia:</strong> Mi activismo por esta causa usa diferentes formatos difíciles de plasmar y ejecutar en formato de proyecto.
 </p>
   
+</details>
+
 ## **En construcción**
 
 <details>
