@@ -10,6 +10,7 @@ Aquí puedes ver los proyectos y actividades de activismo y concienciación en l
 
 ## London Memory Walk 2025 
 Caminata solidaria para la demencia, organizada por la Alzheimer's Society.
+
 <details>
 <summary>Ver detalles</summary>
 <p><strong>Estado:</strong> Activo</p>
@@ -58,7 +59,31 @@ Gracias.
 
 </details>
 
+## Expedición a la Antártida 2025 
+Expedición de mujeres científicas y profesionales de la sostenibilidad parte de la red de liderazgo internacional Homeward bound. La mayor expedición femenina a la Antártida.
+
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Finalizada</p>
+<p><strong>Recaudación de fondos para la causa:</strong> [Campaña para la participación en la expedición](https://chuffed.org/project/albafsanleshb8esp)</p>
+<p><strong>Por quién:</strong> Por mí, por las mujeres invisibilizadas, por Galicia en el mundo, por las generaciones futuras y por una sociedad sana y justa en un mundo sostenible y diverso</p>
+<p><strong>Historia:</strong> [Mi perfil en inglés](https://homewardboundprojects.com.au/profile/alba-fernandez-sanles/); [Expedición HBTransform](https://homewardboundprojects.com.au/hbtransform2025/)
+</p>
+
+</details>
+
+## STOP genocidio de la gente palestina 
+
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Activo</p>
+<p><strong>Recaudación de fondos para la causa:</strong> No</p>
+<p><strong>Por quién:</strong> Por la gente palestina y por un mundo tolerante y descolonizado</p>
+<p><strong>Historia:</strong> Mi activismo por esta causa usa diferentes formatos difíciles de plasmar y ejecutar en formato de proyecto.
+</p>
+  
 ## **En construcción**
+
 <details>
 <summary>Ver detalles</summary>
 <p><strong>Estado:</strong> Activo</p>
