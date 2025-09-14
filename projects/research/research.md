@@ -41,6 +41,14 @@ Estudio para identificar factores modificables asociados con hospitalizaciones d
  South London & Maudsley NHS Foundation Trust
   </a>
 </p>
+<p><strong>Mentores:</strong> 
+ <a href="https://en.wikipedia.org/wiki/Gill_Livingston" target="_blank">
+ Prof Gill Livingston; 
+</a>
+  <a href="https://profiles.ucl.ac.uk/41614-andrew-sommerlad" target="_blank">
+ Prof Andrew Sommerlad
+   </a>
+</p>
 <p><strong>Legado:</strong> Marco de análisis replicable en otras cohortes; Vínculo entre investigación y cuidado residencial; Informe para políticas en salud</p>
 <p><strong>Enlaces:</strong> 
   <a href="https://www.ucl.ac.uk/brain-sciences/news/2025/apr/ucl-partners-geller-commission-advance-research-dementia-related-hospitalisations" target="_blank">
