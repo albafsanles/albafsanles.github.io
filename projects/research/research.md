@@ -118,7 +118,7 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
  Prof Claire Steves; 
 </a>
  <a href="https://www.kcl.ac.uk/people/michele-orini" target="_blank">
- Dr Michele Orini] 
+ Dr Michele Orini
 </a>
 </p>
 <p><strong>Legado:</strong> Marco multidimensional para la investigación del COVID persistente; Colaboración interdisciplinaria sostenible; Herramientas de investigación para futuras epidemias.</p>
@@ -238,13 +238,13 @@ Estudio multicohorte de base proteogenómica e inferencia causal para identifica
  Prof Deborah Lawlor; 
 </a>
   <a href="https://www.bristol.ac.uk/people/person/Carolina-Borges-6e99767c-59d6-46fd-9820-86869c1a2626/" target="_blank">
- Dr Carolina Borges
+ Dr Carolina Borges;
    </a>
  <a href="https://research-information.bris.ac.uk/en/persons/tom-r-gaunt" target="_blank">
  Prof Tom Gaunt; 
 </a>
  <a href="https://profiles.ucl.ac.uk/7267-aroon-hingorani" target="_blank">
- Prof Aroon Hingonari] 
+ Prof Aroon Hingonari
 </a>
 </p>
 <p><strong>Legado:</strong> ...</p>
@@ -363,13 +363,13 @@ Proyecto sobre limitaciones de estudios epidemiológicos sobre COVID-19, parte d
  Prof Nic Timpson; 
 </a>
   <a href="https://www.bristol.ac.uk/people/person/Carolina-Borges-6e99767c-59d6-46fd-9820-86869c1a2626/" target="_blank">
- Dr Carolina Borges
+ Dr Carolina Borges;
    </a>
   <a href="https://www.bristol.ac.uk/people/person/Louise-Millard-82e7fd6e-8f78-4d4d-8d77-7da4de95bf49/" target="_blank">
- Dr Louise Millard
+ Dr Louise Millard;
    </a>
   <a href="https://www.bristol.ac.uk/people/person/Kate-Tilling-1887b106-9fd2-40b5-a514-3130d7dfed86/" target="_blank">
- Dr Kate Tilling]
+ Dr Kate Tilling
    </a>
 </p>
 <p><strong>Legado:</strong> ...</p>
@@ -450,6 +450,20 @@ Estudios en múltiples cohortes para identificar biomarcadores y avanzar la prev
 <p><strong>Conferencias:</strong> ...</p>
 <p><strong>Contribuciones:</strong> ...</p>
 <p><strong>Colaboraciones:</strong> ...</p>
+<p><strong>Mentores:</strong> 
+ <a href="https://orcid.org/0000-0001-8235-0095" target="_blank">
+    Prof Roberto Elosua;
+   </a>
+ <a href="https://www.uu.se/en/contact-and-organisation/staff?query=N19-1558" target="_blank">
+    Dr Sergi Sayols;
+   </a>
+<a href="https://sciprofiles.com/profile/author/VGQ0ZE9oUG9la25KUlYvNFBwcWlEbnVSVEhmV2pkd0dVaFZMTzlVR0liQT0=" target="_blank">
+    Dr Isaac Subirana;
+   </a>
+ <a href="https://orcid.org/0000-0003-3320-554X" target="_blank">
+    Prof Jaume Marrugat
+   </a>
+</p>
 <p><strong>Legado:</strong> ...</p>
 <p><strong>Otros enlaces:</strong>NA</p>
 
@@ -483,6 +497,14 @@ Estudios experimentales para entender mejor la biología molecular de los virus 
 <p><strong>Conferencias:</strong> ...</p>
 <p><strong>Contribuciones:</strong> ...</p>
 <p><strong>Colaboraciones:</strong> ...</p>
+<p><strong>Mentores:</strong> 
+ <a href="https://www.ipb.csic.es/departamentos/aberzalh.html?depto=Dpto.deBiologiaMolecular" target="_blank">
+    Prof Alfredo Berzal Herranz;
+   </a>
+ <a href="https://sciprofiles.com/profile/180902" target="_blank">
+    Dr Cristina Romero-López
+   </a>
+</p>
 <p><strong>Legado:</strong> ...</p>
 <p><strong>Otros enlaces:</strong>NA</p>
 
