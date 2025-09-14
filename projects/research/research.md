@@ -357,9 +357,6 @@ Proyecto sobre limitaciones de estudios epidemiológicos sobre COVID-19, parte d
  <a href="https://en.wikipedia.org/wiki/Deborah_Lawlor" target="_blank">
  Prof Deborah Lawlor; 
 </a>
- <a href="https://en.wikipedia.org/wiki/Deborah_Lawlor" target="_blank">
- Prof Deborah Lawlor; 
-</a>
  <a href="https://en.wikipedia.org/wiki/George_Davey_Smith" target="_blank">
  Prof George Davey Smith; 
 </a>
