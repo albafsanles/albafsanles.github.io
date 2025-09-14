@@ -137,7 +137,7 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
 </details>
 
 ## **Infecciones y salud a lo largo de la vida**
-Estudio sobre memoria inmmunológica de infecciones comunes y enfermedades asociadas al envejecimiento y fragilidad
+Estudio sobre memoria inmunológica de infecciones comunes y enfermedades asociadas al envejecimiento y fragilidad
 <details>
 <summary>Ver detalles</summary>
 
@@ -167,6 +167,10 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
 <p><strong>Conferencias:</strong> NA</p>
 <p><strong>Contribuciones:</strong> Coautora y cosupervisora </p>
 <p><strong>Colaboraciones:</strong> NA</p>
+<p><strong>Mentores:</strong> 
+  <a href="https://profiles.ucl.ac.uk/67542-dylan-williams" target="_blank">
+ Dr Dylan Williams 
+</p>
 <p><strong>Legado:</strong> ...</p>
 <p><strong>Enlaces:</strong>   
  <a href="https://www.ucl.ac.uk/population-health-sciences/cardiovascular/research/research-department-population-science-and-experimental-medicine/unit-lifelong-health-and-ageing-ucl/studies" target="_blank">
