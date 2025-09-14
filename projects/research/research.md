@@ -8,7 +8,7 @@ permalink: /projects/research/
 
 Aquí puedes ver los proyectos de investigación en los que he trabajado:
 
-## **Estudio IMPACT en demencia**
+## **Demencia y hospitalizaciones (Estudio IMPACT)**
 Estudio para identificar factores modificables asociados con hospitalizaciones de personas con demencia. 
 <details>
 <summary>Ver detalles</summary>
@@ -56,7 +56,7 @@ Estudio para identificar factores modificables asociados con hospitalizaciones d
 
 </details>
 
-## **CONVALESCENCE Deep phenotyping**
+## **COVID persistente (CONVALESCENCE Deep phenotyping clinical study)**
 Proyecto nacional, multidisciplinar y multicéntrico para caracterizar el COVID persistente y su relación con daño/disfunción sistémica/orgánica
 <details>
 <summary>Ver detalles</summary>
@@ -206,7 +206,15 @@ Estudio multicohorte de base proteogenómica e inferencia causal para identifica
 <p><strong>Contribuciones:</strong> Diseño; Manejo y análisis secundarios de datos genéticos; Análisis de redes de interacción entre proteínas; Manejo y análisis de bases de datos de fármacos; Producción de artículos y presentaciones</p>
 <p><strong>Colaboraciones:</strong> Multimorbidity Mechanism and Therapeutics Research Collaborative (MMTRC) </p>
 <p><strong>Legado:</strong> ...</p>
-<p><strong>Otros enlaces:</strong>NA</p>
+<p><strong>Otros enlaces:</strong>Parte de Multimorbidity Mechanism and Therapeutic Research Collaborative (MMTRC) [
+ <a href="https://ascpt.onlinelibrary.wiley.com/doi/10.1111/cts.70314" target="_blank">
+ APOE y estatinas; 
+  </a>
+ <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00187-X/fulltext" target="_blank">
+ Multimorbilidad y comorbilidad
+  </a>
+]
+</p>
 
 </details>
 
