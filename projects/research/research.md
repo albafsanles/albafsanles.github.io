@@ -276,13 +276,14 @@ Proyecto sobre limitaciones de estudios epidemiológicos sobre COVID-19, parte d
 <p><strong>Cohortes:</strong> ...</p>
 <p><strong>Conclusiones:</strong> Finalizado.</p>
 <p><strong>Impacto:</strong> ...</p>
-<p><strong>Artículos:</strong> 2 artículos como primera co-autora 
+<p><strong>Artículos:</strong> 2 artículos como primera co-autora [
   <a href="https://wellcomeopenresearch.org/articles/6-184/v2?gtmKey=GTM-5P673KJ&immUserUrl=https%3A%2F%2Fwor-proxy.f1krdev.com%2Feditor%2Fmember%2Fshow%2F&otid=23226e40-fdd0-4acd-97a3-d9bad93befed&s3BucketUrl=https%3A%2F%2Fwellcomeopenresearch-files.f1000.com&submissionUrl=%2Ffor-authors%2Fpublish-your-research&transcendEnv=cm&transcendId=ef49a3f1-d8c1-47d6-88fc-50e41130631f" target="_blank">
-    [1,
+    1
   </a>
   <a href="https://academic.oup.com/ije/article/52/1/44/6874795" target="_blank">
-    2]
+    ,2
   </a>
+ ]; 
  <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02382-4" target="_blank">
     1 artículo como co-autora.
   </a>
@@ -317,9 +318,9 @@ Estudios en múltiples cohortes para identificar biomarcadores y avanzar la prev
 <p><strong>Cohortes:</strong> ...</p>
 <p><strong>Conclusiones:</strong> ...</p>
 <p><strong>Impacto:</strong> ...</p>
-<p><strong>Artículos:</strong> Cuatro artículos como primera autora 
+<p><strong>Artículos:</strong> Cuatro artículos como primera autora [
    <a href="https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-021-01078-6" target="_blank">
-    [infarto,
+    infarto,
   </a>
    <a href="https://journals.lww.com/acsm-msse/fulltext/2020/03000/physical_activity_and_genome_wide_dna_methylation_.9.aspx" target="_blank">
     actividad física,
@@ -328,10 +329,11 @@ Estudios en múltiples cohortes para identificar biomarcadores y avanzar la prev
     riesgo cardiovascular,
   </a>
    <a href="https://www.atherosclerosis-journal.com/article/S0021-9150(17)30225-3/abstract" target="_blank">
-    arterosclerosis];
+    arterosclerosis
     </a>
-   <a href="https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-021-01064-y" target="_blank">
- un artículo como co-supervisora en marcadores ómicos de enfermedad cardiovascular;
+   ]; un artículo como co-supervisora 
+ <a href="https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-021-01064-y" target="_blank">
+ [marcadores ómicos de enfermedad cardiovascular];
   </a>
     nueve artículos como coautora
  <a href="https://academic.oup.com/eurjpc/article/31/2/191/7289158" target="_blank">
@@ -339,8 +341,8 @@ Estudios en múltiples cohortes para identificar biomarcadores y avanzar la prev
    </a>
 <a href="https://www.ahajournals.org/doi/10.1161/JAHA.119.015299?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed" target="_blank">
     riesgo cardiovascular,
-  </a>
- ictus 
+</a>
+  ictus 
  <a href="https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0042-1749328" target="_blank">
     [1, 
   </a>
@@ -360,9 +362,9 @@ Estudios en múltiples cohortes para identificar biomarcadores y avanzar la prev
   contaminación del aire,
    </a>
    <a href="https://www.tandfonline.com/doi/10.1080/15592294.2017.1363951" target="_blank">
-    obesidad];
+    obesidad
    </a>
-un estudio como supervisora sin publicar
+]; un estudio como supervisora sin publicar
 </p>
 <p><strong>Conferencias:</strong> ...</p>
 <p><strong>Contribuciones:</strong> ...</p>
@@ -391,7 +393,7 @@ Estudios experimentales para entender mejor la biología molecular de los virus 
 <p><strong>Impacto:</strong> ...</p>
 <p><strong>Artículos:</strong> 2 artículos como primera autora 
    <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2017.00546/full" target="_blank">
-    [ARN de flavivirus,
+    [ARN de flavivirus;
   </a>
     <a href="https://www.mdpi.com/1420-3049/20/9/16030" target="_blank">
     aptámeros y virus de la hepatitis C]
