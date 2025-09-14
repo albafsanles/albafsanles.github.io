@@ -114,21 +114,21 @@ Estudio sobre memoria inmmunológica de infecciones comunes y enfermedades asoci
 <summary>Ver detalles</summary>
 
 <p><strong>Estado:</strong> Activo</p>
-<p><strong>Palabras clave:</strong> .</p>
+<p><strong>Palabras clave:</strong> ...</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
-<p><strong>Financiación:</strong> .</p>
+<p><strong>Financiación:</strong> ...</p>
 <p><strong>Dónde:</strong> 
      <a href="https://www.ucl.ac.uk/population-health-sciences/cardiovascular/research/research-department-population-science-and-experimental-medicine/unit-lifelong-health-and-ageing-ucl/studies" target="_blank">
 Unidad de Salud a lo largo de la vida y envejecimiento, University College London
     </a>
 </p>
 <p><strong>Años:</strong> 2023-2025</p>
-<p><strong>Contexto:</strong> .</p>
-<p><strong>Objetivo:</strong> .</p>
-<p><strong>Métodos:</strong> .</p>
-<p><strong>Cohortes:</strong> .</p>
+<p><strong>Contexto:</strong> ...</p>
+<p><strong>Objetivo:</strong> ...</p>
+<p><strong>Métodos:</strong> ...</p>
+<p><strong>Cohortes:</strong> ...</p>
 <p><strong>Conclusiones:</strong> En progreso.</p>
-<p><strong>Impacto:</strong> .</p>
+<p><strong>Impacto:</strong> ...</p>
 <p><strong>Artículos:</strong> 
   <a href="https://www.medrxiv.org/content/10.1101/2024.02.17.24302569v2" target="_blank">
   Preprint sobre un estudio multicohorte sobre APOE e infecciones comunes; 
@@ -139,7 +139,7 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
 <p><strong>Conferencias:</strong> NA</p>
 <p><strong>Contribuciones:</strong> Coautora y cosupervisora </p>
 <p><strong>Colaboraciones:</strong> NA</p>
-<p><strong>Legado:</strong> .</p>
+<p><strong>Legado:</strong> ...</p>
 <p><strong>Enlaces:</strong>   
  <a href="https://www.ucl.ac.uk/population-health-sciences/cardiovascular/research/research-department-population-science-and-experimental-medicine/unit-lifelong-health-and-ageing-ucl/studies" target="_blank">
     UCL LHA unit
@@ -154,17 +154,17 @@ Estudios de inferencia causal basada en marcadores genéticos (Mendelian randomi
 <summary>Ver detalles</summary>
 
 <p><strong>Estado:</strong> Activo</p>
-<p><strong>Palabras clave:</strong> .</p>
+<p><strong>Palabras clave:</strong> ...</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
-<p><strong>Financiación:</strong> .</p>
+<p><strong>Financiación:</strong> ...</p>
 <p><strong>Dónde:</strong> Colaboración externa; UCL </p>
-<p><strong>Años:</strong> .</p>
-<p><strong>Contexto:</strong> .</p>
-<p><strong>Objetivo:</strong> .</p>
-<p><strong>Métodos:</strong> .</p>
-<p><strong>Cohortes:</strong> .</p>
-<p><strong>Conclusiones:</strong> En progreso .</p>
-<p><strong>Impacto:</strong> .</p>
+<p><strong>Años:</strong> ...</p>
+<p><strong>Contexto:</strong> ...</p>
+<p><strong>Objetivo:</strong> ...</p>
+<p><strong>Métodos:</strong> ...</p>
+<p><strong>Cohortes:</strong> ...</p>
+<p><strong>Conclusiones:</strong> En progreso ...</p>
+<p><strong>Impacto:</strong> ...</p>
 <p><strong>Artículos:</strong> Tres publicaciones previstas como co-autora. 
 Un trabajo de Grado en Biotecnología de la Universidad Francisco de Victoria como supervisora (Sobresaliente)</p>
 <p><strong>Conferencias:</strong> NA</p>
@@ -181,21 +181,21 @@ Estudio multicohorte de base proteogenómica e inferencia causal para identifica
 <summary>Ver detalles</summary>
 
 <p><strong>Estado:</strong> Activo</p>
-<p><strong>Palabras clave:</strong> .</p>
+<p><strong>Palabras clave:</strong> ...</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
-<p><strong>Financiación:</strong> .</p>
+<p><strong>Financiación:</strong> ...</p>
 <p><strong>Dónde:</strong> 
  <a href="https://www.bristol.ac.uk/integrative-epidemiology/research/womens-health/" target="_blank">
  Unidad MRC de Epidemiología Integrativa en la Universidad de Bristol
   </a>
 </p>
 <p><strong>Años:</strong> 2020-2025</p>
-<p><strong>Contexto:</strong> .</p>
-<p><strong>Objetivo:</strong> .</p>
-<p><strong>Métodos:</strong> .</p>
-<p><strong>Cohortes:</strong> .</p>
+<p><strong>Contexto:</strong> ...</p>
+<p><strong>Objetivo:</strong> ...</p>
+<p><strong>Métodos:</strong> ...</p>
+<p><strong>Cohortes:</strong> ...</p>
 <p><strong>Conclusiones:</strong> En progreso.</p>
-<p><strong>Impacto:</strong> .</p>
+<p><strong>Impacto:</strong> ...</p>
 <p><strong>Artículos:</strong> Una publicación prevista como primera autora. </p>
 <p><strong>Conferencias:</strong> 
   <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/gepi.22503" target="_blank">
@@ -205,7 +205,7 @@ Estudio multicohorte de base proteogenómica e inferencia causal para identifica
 </p>
 <p><strong>Contribuciones:</strong> Diseño; Manejo y análisis secundarios de datos genéticos; Análisis de redes de interacción entre proteínas; Manejo y análisis de bases de datos de fármacos; Producción de artículos y presentaciones</p>
 <p><strong>Colaboraciones:</strong> Multimorbidity Mechanism and Therapeutics Research Collaborative (MMTRC) </p>
-<p><strong>Legado:</strong> .</p>
+<p><strong>Legado:</strong> ...</p>
 <p><strong>Otros enlaces:</strong>NA</p>
 
 </details>
@@ -216,30 +216,30 @@ Consorcio que aplica triangulación de estudios observacionales en múltiples co
 <summary>Ver detalles</summary>
 
 <p><strong>Estado:</strong> Activo</p>
-<p><strong>Palabras clave:</strong> .</p>
+<p><strong>Palabras clave:</strong> ...</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
-<p><strong>Financiación:</strong> .</p>
+<p><strong>Financiación:</strong> ...</p>
 <p><strong>Dónde:</strong> 
   <a href="https://www.bristol.ac.uk/integrative-epidemiology/research/womens-health/" target="_blank" rel="noopener">
     Unidad MRC de Epidemiología Integrativa en la Universidad de Bristol
   </a>
 </p>
 <p><strong>Años:</strong> 2024-2025</p>
-<p><strong>Contexto:</strong> .</p>
-<p><strong>Objetivo:</strong> .</p>
-<p><strong>Métodos:</strong> .</p>
+<p><strong>Contexto:</strong> ...</p>
+<p><strong>Objetivo:</strong> ...</p>
+<p><strong>Métodos:</strong> ...</p>
 <p><strong>Cohortes:</strong> 
  <a href="https://www.medrxiv.org/content/10.1101/2025.03.22.25324447v1" target="_blank">
     MR-PREG Consortium
   </a>
 </p>
 <p><strong>Conclusiones:</strong> En progreso.</p>
-<p><strong>Impacto:</strong> .</p>
+<p><strong>Impacto:</strong> ...</p>
 <p><strong>Artículos:</strong> 
-<a href="https://pubmed.ncbi.nlm.nih.gov/38281920/" target="_blank">
+<a href="https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03167-0" target="_blank">
   Estudio sobre índice de masa corporal materno y eventos adversos del embarazo y perinatales; 
 </a>
- <a href="https://pubmed.ncbi.nlm.nih.gov/37904919/" target="_blank">
+ <a href="https://www.medrxiv.org/content/10.1101/2023.10.20.23297135v2" target="_blank">
   Estudio sobre proteoma materno y fetal e índice de masa corporal materno; 
  </a>
  <a href="https://www.medrxiv.org/content/10.1101/2025.03.22.25324447v1" target="_blank">
@@ -250,7 +250,7 @@ Posibles artículos de estudiantes
 <p><strong>Conferencias:</strong> NA</p>
 <p><strong>Contribuciones:</strong> Manejo de datos longitudinales en ALSPAC; Producción de variables analíticas en ALSPAC; Bases del Consorcio MR-PREG; Revisión de código de variables analíticas en BiB; Apoyo a estudiantes y colegas más junior; GWAS en BiB; Co-autoría de artículos</p>
 <p><strong>Colaboraciones:</strong> MR-PREG</p>
-<p><strong>Legado:</strong> .</p>
+<p><strong>Legado:</strong> ...</p>
 <p><strong>Otros enlaces:</strong>NA </p>
 
 </details>
@@ -261,56 +261,113 @@ Proyecto sobre limitaciones de estudios epidemiológicos sobre COVID-19, parte d
 <summary>Ver detalles</summary>
 
 <p><strong>Estado:</strong> Activo</p>
-<p><strong>Palabras clave:</strong> .</p>
+<p><strong>Palabras clave:</strong> ...</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
-<p><strong>Financiación:</strong> .</p>
+<p><strong>Financiación:</strong> ...</p>
 <p><strong>Dónde:</strong> 
   <a href="https://www.bristol.ac.uk/integrative-epidemiology/research/womens-health/" target="_blank">
  Unidad MRC de Epidemiología Integrativa en la Universidad de Bristol
   </a>
 </p>
 <p><strong>Años:</strong> 2020-2024</p>
-<p><strong>Contexto:</strong> .</p>
-<p><strong>Objetivo:</strong> .</p>
-<p><strong>Métodos:</strong> .</p>
-<p><strong>Cohortes:</strong> .</p>
+<p><strong>Contexto:</strong> ...</p>
+<p><strong>Objetivo:</strong> ...</p>
+<p><strong>Métodos:</strong> ...</p>
+<p><strong>Cohortes:</strong> ...</p>
 <p><strong>Conclusiones:</strong> Finalizado.</p>
-<p><strong>Impacto:</strong> .</p>
-<p><strong>Artículos:</strong> 2 artículos como primera co-autora; 1 artículo como co-autora.</p>
-<p><strong>Conferencias:</strong> .</p>
-<p><strong>Contribuciones:</strong> .</p>
-<p><strong>Colaboraciones:</strong> .</p>
-<p><strong>Legado:</strong> .</p>
+<p><strong>Impacto:</strong> ...</p>
+<p><strong>Artículos:</strong> 2 artículos como primera co-autora 
+  <a href="https://wellcomeopenresearch.org/articles/6-184/v2?gtmKey=GTM-5P673KJ&immUserUrl=https%3A%2F%2Fwor-proxy.f1krdev.com%2Feditor%2Fmember%2Fshow%2F&otid=23226e40-fdd0-4acd-97a3-d9bad93befed&s3BucketUrl=https%3A%2F%2Fwellcomeopenresearch-files.f1000.com&submissionUrl=%2Ffor-authors%2Fpublish-your-research&transcendEnv=cm&transcendId=ef49a3f1-d8c1-47d6-88fc-50e41130631f" target="_blank">
+    [1,
+  </a>
+  <a href="https://academic.oup.com/ije/article/52/1/44/6874795" target="_blank">
+    2]
+  </a>
+ <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02382-4" target="_blank">
+    1 artículo como co-autora.
+  </a>
+</p>
+<p><strong>Conferencias:</strong> ...</p>
+<p><strong>Contribuciones:</strong> ...</p>
+<p><strong>Colaboraciones:</strong> ...</p>
+<p><strong>Legado:</strong> ...</p>
 <p><strong>Otros enlaces:</strong>NA</p>
 
 </details>
 
-## **Epigenómica de la salud cardiometabólica**
-Estudios EWAS en múltiples cohortes para identificar marcadores de metilación del ADN asociados a infarto, otros fenotipos clínicos y subclínicos cardiometabólicos, y factores externos y de estilo de vida relacionados
+## **Salud cardiometabólica (epigenómica y epidemiología)**
+Estudios en múltiples cohortes para identificar biomarcadores y avanzar la prevención de enfermedades cardiovasculares, infarto, ictus, otros fenotipos cardiometabólicos subclínicos, y factores externos y de estilo de vida relacionados. Estos estudios incluyen EWAS para identificar marcadores de metilación del ADN.
+
 <details>
 <summary>Ver detalles</summary>
 
 <p><strong>Estado:</strong> Finalizado</p>
-<p><strong>Palabras clave:</strong> .</p>
+<p><strong>Palabras clave:</strong> ...</p>
 <p><strong>Disciplina:</strong> Ciencias de la salud poblacional</p>
-<p><strong>Financiación:</strong> .</p>
+<p><strong>Financiación:</strong> ...</p>
 <p><strong>Dónde:</strong> 
    <a href="https://researchmar.net/programesrecerca/epidemiologia/es_epicardiovascular.html" target="_blank">
  Grupo de Epidemiología y genética cardiovascular, Instituto Hospital del Mar de Investigaciones Médicas (Barcelona)
   </a>
 </p>
 <p><strong>Años:</strong> 2016-2024.</p>
-<p><strong>Contexto:</strong> .</p>
-<p><strong>Objetivo:</strong> .</p>
-<p><strong>Métodos:</strong> .</p>
-<p><strong>Cohortes:</strong> .</p>
-<p><strong>Conclusiones:</strong> En progreso.</p>
-<p><strong>Impacto:</strong> .</p>
-<p><strong>Artículos:</strong> Cuatro artículos como primera autora; un artículo como co-supervisora; nueve artículos como coautora; un artículo como supervisora sin publicar </p>
-<p><strong>Conferencias:</strong> .</p>
-<p><strong>Contribuciones:</strong> .</p>
-<p><strong>Colaboraciones:</strong> .</p>
-<p><strong>Legado:</strong> .</p>
+<p><strong>Contexto:</strong> ...</p>
+<p><strong>Objetivo:</strong> ...</p>
+<p><strong>Métodos:</strong> ...</p>
+<p><strong>Cohortes:</strong> ...</p>
+<p><strong>Conclusiones:</strong> ...</p>
+<p><strong>Impacto:</strong> ...</p>
+<p><strong>Artículos:</strong> Cuatro artículos como primera autora 
+   <a href="https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-021-01078-6" target="_blank">
+    [infarto,
+  </a>
+   <a href="https://journals.lww.com/acsm-msse/fulltext/2020/03000/physical_activity_and_genome_wide_dna_methylation_.9.aspx" target="_blank">
+    actividad física,
+  </a>
+   <a href="https://www.ahajournals.org/doi/10.1161/ATVBAHA.117.310340?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed" target="_blank">
+    riesgo cardiovascular,
+  </a>
+   <a href="https://www.atherosclerosis-journal.com/article/S0021-9150(17)30225-3/abstract" target="_blank">
+    arterosclerosis];
+    </a>
+   <a href="https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-021-01064-y" target="_blank">
+ un artículo como co-supervisora en marcadores ómicos de enfermedad cardiovascular;
+  </a>
+    nueve artículos como coautora
+ <a href="https://academic.oup.com/eurjpc/article/31/2/191/7289158" target="_blank">
+    [dieta y factores cardiometabólicos,
+   </a>
+<a href="https://www.ahajournals.org/doi/10.1161/JAHA.119.015299?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed" target="_blank">
+    riesgo cardiovascular,
+  </a>
+ ictus 
+ <a href="https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0042-1749328" target="_blank">
+    [1, 
+  </a>
+  <a href="https://www.tandfonline.com/doi/10.1080/15592294.2020.1746507" target="_blank">
+    2,
+  </a>
+  <a href="https://www.oncotarget.com/article/27469/" target="_blank">
+    3],
+  </a>
+ <a href="https://www.metabolismjournal.com/article/S0026-0495(20)30215-8/fulltext" target="_blank">
+  lipoproteínas (colesterol),
+   </a>
+ <a href="https://www.revespcardiol.org/es-analisis-de-la-relacion-dosis-respuesta-articulo-S0300893220301378" target="_blank">
+  actividad física,
+   </a>
+ <a href="https://www.sciencedirect.com/science/article/abs/pii/S0013935119303470?via%3Dihub" target="_blank">
+  contaminación del aire,
+   </a>
+   <a href="https://www.tandfonline.com/doi/10.1080/15592294.2017.1363951" target="_blank">
+    obesidad];
+   </a>
+un estudio como supervisora sin publicar
+</p>
+<p><strong>Conferencias:</strong> ...</p>
+<p><strong>Contribuciones:</strong> ...</p>
+<p><strong>Colaboraciones:</strong> ...</p>
+<p><strong>Legado:</strong> ...</p>
 <p><strong>Otros enlaces:</strong>NA</p>
 
 </details>
@@ -321,22 +378,29 @@ Estudios experimentales para entender mejor la biología molecular de los virus 
 <summary>Ver detalles</summary>
 
 <p><strong>Estado:</strong> Finalizado</p>
-<p><strong>Palabras clave:</strong> .</p>
+<p><strong>Palabras clave:</strong> ...</p>
 <p><strong>Disciplina:</strong> Virología molecular</p>
-<p><strong>Financiación:</strong> .</p>
-<p><strong>Dónde:</strong> .</p>
-<p><strong>Años:</strong> .</p>
-<p><strong>Contexto:</strong> .</p>
-<p><strong>Objetivo:</strong> .</p>
-<p><strong>Métodos:</strong> .</p>
-<p><strong>Cohortes:</strong> .</p>
-<p><strong>Conclusiones:</strong> .</p>
-<p><strong>Impacto:</strong> .</p>
-<p><strong>Artículos:</strong> 2 artículos como primera autora</p>
-<p><strong>Conferencias:</strong> .</p>
-<p><strong>Contribuciones:</strong> .</p>
-<p><strong>Colaboraciones:</strong> .</p>
-<p><strong>Legado:</strong> .</p>
+<p><strong>Financiación:</strong> ...</p>
+<p><strong>Dónde:</strong> ...</p>
+<p><strong>Años:</strong> 2013-2016
+<p><strong>Contexto:</strong> ...</p>
+<p><strong>Objetivo:</strong> ...</p>
+<p><strong>Métodos:</strong> ...</p>
+<p><strong>Cohortes:</strong> ...</p>
+<p><strong>Conclusiones:</strong> ...</p>
+<p><strong>Impacto:</strong> ...</p>
+<p><strong>Artículos:</strong> 2 artículos como primera autora 
+   <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2017.00546/full" target="_blank">
+    [ARN de flavivirus,
+  </a>
+    <a href="https://www.mdpi.com/1420-3049/20/9/16030" target="_blank">
+    aptámeros y virus de la hepatitis C]
+  </a>
+</p>
+<p><strong>Conferencias:</strong> ...</p>
+<p><strong>Contribuciones:</strong> ...</p>
+<p><strong>Colaboraciones:</strong> ...</p>
+<p><strong>Legado:</strong> ...</p>
 <p><strong>Otros enlaces:</strong>NA</p>
 
 </details>
