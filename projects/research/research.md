@@ -101,6 +101,26 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
 <p><strong>Conferencias:</strong> Presentaciones en foros nacionales; Conferencia Mundial de Epidemiología, WCE (Septiembre 2024, Ciudad del Cabo)</p>
 <p><strong>Contribuciones:</strong> Diseño analítico de los datos clínicos; Manejo, integración y análisis de datos clínicos; Colaboración multidisciplinar, multicéntrica, y con personas con experiencia vivida; Coordinación de trabajo colaborativo; Producción de artículos y presentaciones</p>
 <p><strong>Colaboraciones:</strong> University of Bristol, King's College London, University of Oxford, University of Sheffield </p>
+<p><strong>Mentores:</strong> 
+  <a href="https://profiles.ucl.ac.uk/67542-dylan-williams" target="_blank">
+ Dr Dylan Williams; 
+</a>
+ <a href="https://en.wikipedia.org/wiki/Nishi_Chaturvedi" target="_blank">
+ Prof Nishi Chaturvedi; 
+</a>
+<a href="https://profiles.ucl.ac.uk/40880-alun-hughes" target="_blank">
+ Prof Alun Hughes; 
+</a>
+ <a href="https://www.bristol.ac.uk/people/person/Nicholas-Timpson-cb33193a-0edb-46a8-a06f-7532cf9ee874/" target="_blank">
+ Prof Nic Timpson; 
+</a>
+ <a href="https://www.kcl.ac.uk/people/claire-steves" target="_blank">
+ Prof Claire Steves; 
+</a>
+ <a href="https://www.kcl.ac.uk/people/michele-orini" target="_blank">
+ Dr Michele Orini] 
+</a>
+</p>
 <p><strong>Legado:</strong> Marco multidimensional para la investigación del COVID persistente; Colaboración interdisciplinaria sostenible; Herramientas de investigación para futuras epidemias.</p>
 <p><strong>Enlaces:</strong> 
  <a href="https://www.convalescence.ac.uk/data-collections/" target="_blank">
@@ -213,6 +233,20 @@ Estudio multicohorte de base proteogenómica e inferencia causal para identifica
 </p>
 <p><strong>Contribuciones:</strong> Diseño; Manejo y análisis secundarios de datos genéticos; Análisis de redes de interacción entre proteínas; Manejo y análisis de bases de datos de fármacos; Producción de artículos y presentaciones</p>
 <p><strong>Colaboraciones:</strong> Multimorbidity Mechanism and Therapeutics Research Collaborative (MMTRC) </p>
+<p><strong>Mentores:</strong> 
+ <a href="https://en.wikipedia.org/wiki/Deborah_Lawlor" target="_blank">
+ Prof Deborah Lawlor; 
+</a>
+  <a href="https://www.bristol.ac.uk/people/person/Carolina-Borges-6e99767c-59d6-46fd-9820-86869c1a2626/" target="_blank">
+ Dr Carolina Borges
+   </a>
+ <a href="https://research-information.bris.ac.uk/en/persons/tom-r-gaunt" target="_blank">
+ Prof Tom Gaunt; 
+</a>
+ <a href="https://profiles.ucl.ac.uk/7267-aroon-hingorani" target="_blank">
+ Prof Aroon Hingonari] 
+</a>
+</p>
 <p><strong>Legado:</strong> ...</p>
 <p><strong>Otros enlaces:</strong>Parte de Multimorbidity Mechanism and Therapeutic Research Collaborative (MMTRC) [
  <a href="https://ascpt.onlinelibrary.wiley.com/doi/10.1111/cts.70314" target="_blank">
@@ -266,6 +300,14 @@ Posibles artículos de estudiantes
 <p><strong>Conferencias:</strong> NA</p>
 <p><strong>Contribuciones:</strong> Manejo de datos longitudinales en ALSPAC; Producción de variables analíticas en ALSPAC; Bases del Consorcio MR-PREG; Revisión de código de variables analíticas en BiB; Apoyo a estudiantes y colegas más junior; GWAS en BiB; Co-autoría de artículos</p>
 <p><strong>Colaboraciones:</strong> MR-PREG</p>
+<p><strong>Mentores:</strong> 
+ <a href="https://en.wikipedia.org/wiki/Deborah_Lawlor" target="_blank">
+ Prof Deborah Lawlor; 
+</a>
+  <a href="https://www.bristol.ac.uk/people/person/Carolina-Borges-6e99767c-59d6-46fd-9820-86869c1a2626/" target="_blank">
+ Dr Carolina Borges
+   </a>
+</p>
 <p><strong>Legado:</strong> ...</p>
 <p><strong>Otros enlaces:</strong>NA </p>
 
@@ -307,6 +349,29 @@ Proyecto sobre limitaciones de estudios epidemiológicos sobre COVID-19, parte d
 <p><strong>Conferencias:</strong> ...</p>
 <p><strong>Contribuciones:</strong> ...</p>
 <p><strong>Colaboraciones:</strong> ...</p>
+<p><strong>Mentores:</strong> 
+ <a href="https://en.wikipedia.org/wiki/Deborah_Lawlor" target="_blank">
+ Prof Deborah Lawlor; 
+</a>
+ <a href="https://en.wikipedia.org/wiki/Deborah_Lawlor" target="_blank">
+ Prof Deborah Lawlor; 
+</a>
+ <a href="https://en.wikipedia.org/wiki/George_Davey_Smith" target="_blank">
+ Prof George Davey Smith; 
+</a>
+ <a href="https://www.bristol.ac.uk/people/person/Nicholas-Timpson-cb33193a-0edb-46a8-a06f-7532cf9ee874/" target="_blank">
+ Prof Nic Timpson; 
+</a>
+  <a href="https://www.bristol.ac.uk/people/person/Carolina-Borges-6e99767c-59d6-46fd-9820-86869c1a2626/" target="_blank">
+ Dr Carolina Borges
+   </a>
+  <a href="https://www.bristol.ac.uk/people/person/Louise-Millard-82e7fd6e-8f78-4d4d-8d77-7da4de95bf49/" target="_blank">
+ Dr Louise Millard
+   </a>
+  <a href="https://www.bristol.ac.uk/people/person/Kate-Tilling-1887b106-9fd2-40b5-a514-3130d7dfed86/" target="_blank">
+ Dr Kate Tilling]
+   </a>
+</p>
 <p><strong>Legado:</strong> ...</p>
 <p><strong>Otros enlaces:</strong>NA</p>
 
