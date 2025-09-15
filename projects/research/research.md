@@ -60,6 +60,17 @@ Estudio para identificar factores modificables asociados con hospitalizaciones d
 <a href="https://aaic.alz.org/" target="_blank">
     AAIC 2025 Toronto 
   </a>
+ UCL en el ránking de universidades mundiales [
+ <a href="https://www.shanghairanking.com/rankings/gras/2024/RS0402" target="_blank">
+    3ª en el Shanghai Ranking 2024 para Salud Pública,
+  </a>
+ <a href="https://www.timeshighereducation.com/world-university-rankings/2025/subject-ranking/clinical-pre-clinical-health#!/length/25/sort_by/rank/sort_order/asc/cols/scores/" target="_blank">
+    8ª en el Times Higher Education Ranking 2025 para el área de Medicina y Salud,
+  </a>
+ <a href="https://www.topuniversities.com/university-subject-rankings/life-sciences-medicine" target="_blank">
+     9ª en el QS World University Ranking 2025 para el área de Ciencias de la Vida y Medicina,
+  </a>
+ ]
 </p>
 
 </details>
@@ -132,6 +143,17 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
    <a href="https://www.ucl.ac.uk/population-health-sciences/cardiovascular/research/research-department-population-science-and-experimental-medicine/unit-lifelong-health-and-ageing-ucl/studies" target="_blank">
     UCL LHA unit
   </a>
+ UCL en el ránking de universidades mundiales [
+ <a href="https://www.shanghairanking.com/rankings/gras/2024/RS0402" target="_blank">
+    3ª en el Shanghai Ranking 2024 para Salud Pública,
+  </a>
+ <a href="https://www.timeshighereducation.com/world-university-rankings/2025/subject-ranking/clinical-pre-clinical-health#!/length/25/sort_by/rank/sort_order/asc/cols/scores/" target="_blank">
+    8ª en el Times Higher Education Ranking 2025 para el área de Medicina y Salud,
+  </a>
+ <a href="https://www.topuniversities.com/university-subject-rankings/life-sciences-medicine" target="_blank">
+     9ª en el QS World University Ranking 2025 para el área de Ciencias de la Vida y Medicina,
+  </a>
+ ]
 </p>
  
 </details>
@@ -177,6 +199,17 @@ Unidad de Salud a lo largo de la vida y envejecimiento, University College Londo
  <a href="https://www.ucl.ac.uk/population-health-sciences/cardiovascular/research/research-department-population-science-and-experimental-medicine/unit-lifelong-health-and-ageing-ucl/studies" target="_blank">
     UCL LHA unit
   </a>
+ UCL en el ránking de universidades mundiales [
+ <a href="https://www.shanghairanking.com/rankings/gras/2024/RS0402" target="_blank">
+    3ª en el Shanghai Ranking 2024 para Salud Pública,
+  </a>
+ <a href="https://www.timeshighereducation.com/world-university-rankings/2025/subject-ranking/clinical-pre-clinical-health#!/length/25/sort_by/rank/sort_order/asc/cols/scores/" target="_blank">
+    8ª en el Times Higher Education Ranking 2025 para el área de Medicina y Salud,
+  </a>
+ <a href="https://www.topuniversities.com/university-subject-rankings/life-sciences-medicine" target="_blank">
+     9ª en el QS World University Ranking 2025 para el área de Ciencias de la Vida y Medicina,
+  </a>
+ ]
 </p>
 
 </details>
@@ -261,6 +294,17 @@ Estudio multicohorte de base proteogenómica e inferencia causal para identifica
  Multimorbilidad y comorbilidad
   </a>
 ]
+ UoB en el ránking de universidades británicas [
+ <a href="https://www.shanghairanking.com/rankings/gras/2024/RS0402" target="_blank">
+    5ª en el Shanghai Ranking 2024 para Salud Pública,
+  </a>
+ <a href="https://www.timeshighereducation.com/world-university-rankings/2025/subject-ranking/clinical-pre-clinical-health#!/length/25/sort_by/rank/sort_order/asc/cols/scores/" target="_blank">
+    9ª en el Times Higher Education Ranking 2025 para el área de Medicina y Salud,
+  </a>
+ <a href="https://www.topuniversities.com/university-subject-rankings/life-sciences-medicine?search=bristol" target="_blank">
+    10ª en el QS World University Ranking 2025 para el área de Ciencias de la Vida y Medicina,
+  </a>
+ ]
 </p>
 
 </details>
@@ -314,7 +358,19 @@ Posibles artículos de estudiantes
    </a>
 </p>
 <p><strong>Legado:</strong> ...</p>
-<p><strong>Otros enlaces:</strong>NA </p>
+<p><strong>Otros enlaces:</strong>
+ UoB en el ránking de universidades británicas [
+ <a href="https://www.shanghairanking.com/rankings/gras/2024/RS0402" target="_blank">
+    5ª en el Shanghai Ranking 2024 para Salud Pública,
+  </a>
+ <a href="https://www.timeshighereducation.com/world-university-rankings/2025/subject-ranking/clinical-pre-clinical-health#!/length/25/sort_by/rank/sort_order/asc/cols/scores/" target="_blank">
+    9ª en el Times Higher Education Ranking 2025 para el área de Medicina y Salud,
+  </a>
+ <a href="https://www.topuniversities.com/university-subject-rankings/life-sciences-medicine?search=bristol" target="_blank">
+    10ª en el QS World University Ranking 2025 para el área de Ciencias de la Vida y Medicina,
+  </a>
+ ]
+</p>
 
 </details>
 
@@ -375,7 +431,19 @@ Proyecto sobre limitaciones de estudios epidemiológicos sobre COVID-19, parte d
    </a>
 </p>
 <p><strong>Legado:</strong> ...</p>
-<p><strong>Otros enlaces:</strong>NA</p>
+<p><strong>Otros enlaces:</strong>
+  UoB en el ránking de universidades británicas [
+ <a href="https://www.shanghairanking.com/rankings/gras/2024/RS0402" target="_blank">
+   5ª en el Shanghai Ranking 2024 para Salud Pública,
+  </a>
+ <a href="https://www.timeshighereducation.com/world-university-rankings/2025/subject-ranking/clinical-pre-clinical-health#!/length/25/sort_by/rank/sort_order/asc/cols/scores/" target="_blank">
+    9ª en el Times Higher Education Ranking 2025 para el área de Medicina y Salud,
+  </a>
+ <a href="https://www.topuniversities.com/university-subject-rankings/life-sciences-medicine?search=bristol" target="_blank">
+    10ª en el QS World University Ranking 2025 para el área de Ciencias de la Vida y Medicina,
+  </a>
+ ]
+</p>
 
 </details>
 
@@ -467,7 +535,19 @@ Estudios en múltiples cohortes para identificar biomarcadores y avanzar la prev
    </a>
 </p>
 <p><strong>Legado:</strong> ...</p>
-<p><strong>Otros enlaces:</strong>NA</p>
+<p><strong>Otros enlaces:</strong>
+  UPF en el ránking de universidades españolas [
+ <a href="https://www.timeshighereducation.com/world-university-rankings/2025/subject-ranking/clinical-pre-clinical-health#!/length/25/sort_by/rank/sort_order/asc/cols/scores/" target="_blank">
+    3ª en el Times Higher Education Ranking 2025 para el área de Medicina y Salud,
+  </a>
+ <a href="https://www.shanghairanking.com/rankings/gras/2024/RS0402" target="_blank">
+    4ª en el Shanghai Ranking 2024 para Salud Pública,
+  </a>
+ <a href="https://www.topuniversities.com/university-subject-rankings/life-sciences-medicine?search=bristol" target="_blank">
+    9ª en el QS World University Ranking 2025 para el área de Ciencias de la Vida y Medicina,
+  </a>
+ ]
+</p>
 
 </details>
 
