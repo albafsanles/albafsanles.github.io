@@ -23,5 +23,5 @@ Puedes descargar mi CV narrativo en PDF:
 
 Puedes consultar las asignaturas de mi formación universitaria en el enlace siguiente:
 
-[Lic. Biología](/cv/asignaturas)
+[Lic. Biología](/cv/asignaturas/)
 [Posgrado]()
