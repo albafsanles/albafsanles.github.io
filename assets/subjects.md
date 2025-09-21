@@ -10,7 +10,7 @@ Aquí puedes ver las asignaturas que he cursado en mi Licenciatura en Biología 
 
 ## **Licenciatura en Biología**
 
-## *_*Primer ciclo*_*
+# *_*Primer ciclo*_*
 
 _2006-7_
 
@@ -54,7 +54,7 @@ _2008-9_
 - Libre elección: Investigación biomédica ("shadowing", oportunidad competitiva)
 - Libre elección: Un recorrido por la Matemática
 
-## *_*Segundo ciclo*_*
+# *_*Segundo ciclo*_*
 
 _2009-10_
 
