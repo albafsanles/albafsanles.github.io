@@ -18,3 +18,10 @@ Puedes descargar mi CV no académico en inglés en el enlace siguiente:
 Puedes descargar mi CV narrativo en PDF:
 
 *Actualizando...*
+
+## Asignaturas cursadas
+
+Puedes consultar las asignaturas de mi formación universitaria en el enlace siguiente:
+
+[Lic. Biología]()
+[Posgrado]()
