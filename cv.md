@@ -19,8 +19,8 @@ Puedes descargar mi CV narrativo en PDF:
 
 *Actualizando...*
 
-## Asignaturas cursadas
+## Formación académica
 
-Puedes consultar las asignaturas de mi formación universitaria en el enlace siguiente:
+Puedes consultar mi educación (incluyendo las asignaturas de mi formación universitaria) en el enlace siguiente:
 
 [Ver](/cv/asignaturas/)
