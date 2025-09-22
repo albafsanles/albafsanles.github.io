@@ -4,9 +4,53 @@ title: "Asignaturas"
 permalink: /cv/asignaturas/
 ---
 
+# Formación previa y contexto educativo
+
+Antes de iniciar la Licenciatura en Biología, mi formación incluyó estudios de educación secundaria y bachillerato con especialización en ciencias, combinando asignaturas de biología, química, matemáticas y física. 
+
+Este periodo me proporcionó una base sólida en ciencias y me permitió desarrollar habilidades de análisis, pensamiento crítico y trabajo experimental, fundamentales para la formación universitaria posterior.
+
+También incluyó experiencias extracurriculares y proyectos culturales que ampliaron mi perspectiva científica y general, algo muy valorado en el contexto internacional actual.
+
+## **Educación obligatoria (Primaria + E.S.O.)
+
+# _Educación Infantil_
+
+_1991-3_
+C.E.I.P. de Xuño (Porto do Son, A Coruña)
+Educación pública en gallego y español.
+
+# _Educación Primaria_
+
+_1993-2000_
+C.E.I.P. de Xuño (Porto do Son, A Coruña)
+Educación pública en gallego y español.
+Premios en concursos literarios a nivel municipal.
+Actividades extracurriculares: inglés, natación, pintura, y otras.
+
+# _Educación Secundaria (E.S.O.)_
+
+_2000-4_
+I.E.S. Leliadoura (Ribeira, A Coruña)
+Educación pública en gallego y español.
+Asignaturas: Lengua Castellana y Literatura I-IV; Lingua Galega e Literatura I-IV; Inglés I-IV; Francés; Matemáticas I-IV; Ciencias Naturales I-II; Ciencias Sociales I-II; Educación Física I-IV; Biología y Geología; Física y Química; Geografía e Historia; Educación Plástica y Visual; Música; Tecnología
+Actividades extracurriculares: Inglés.
+
+## **Bachillerato en Ciencias de la Salud
+
+_2004-6_
+I.E.S. Leliadoura (Ribeira, A Coruña)
+Educación pública en gallego y español.
+Excelencia educativa reconocida con la Matrícula de honor del Bachillerato en Ciencias de la Salud 2004-6.
+Asignaturas: Lengua Castellana y Literatura I y II; Lingua Galega e Literatura I y II; Inglés I y II; Francés I; Filosofía I y II; Historia I; Biología y Geología; Biología; Ciencias de la Tierra; Física y Química; Química; Física; Matemáticas I; Educación Física I.
+Actividades: Participación en un programa de intercambio escolar de la Unión Europea con el Liceo classico Giovanni XXIII (Marsala, Sicilia, Italia). La experiencia incluyó una estancias de dos semanas en familias anfitrionas y actividades culturales y académicas conjuntas, promoviendo la comprensión intercultural y el aprendizaje colaborativo. El tema de unión entre las dos culturas era el mar y las comunidades costeras.
+Actividades extracurriculares: Inglés.
+
+
+
 # Formación universitaria
 
-Aquí puedes ver las asignaturas que he cursado en mis estudios universitarios:
+Aquí puedes ver las asignaturas que he cursado en mis estudios universitarios en universidades públicas españolas:
 
 ## **Licenciatura en Biología (Universidad de Santiago de Compostela)**
 
