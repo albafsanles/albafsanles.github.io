@@ -10,13 +10,18 @@ Aquí puedes ver las asignaturas que he cursado en mis estudios universitarios:
 
 ## **Licenciatura en Biología (Universidad de Santiago de Compostela)**
 
-* _Glosario: Troncal = Asignatura obligatoria a nivel de todo el país; Obligatoria = Asignatura obligatoria en la Lic. de Biología en la USC, no en todas las universidades; Optativa = Asignatura electiva dentro del catálogo ofrecido por la Universidad como parte del programa; Libre elección = créditos flexibles completados con módulos de otros programas, actividades culturales, idiomas, o aprendizaje extracurricular reconocido; Créditos: unidad de carga de estudio equivalente a unas 10 hours de clases presenciales o prácticas._
+_* Glosario: 
+Troncal = Asignatura obligatoria a nivel de todo el país 
+Obligatoria = Asignatura obligatoria en la Lic. de Biología en la USC, no en todas las universidades 
+Optativa = Asignatura optativa dentro del plan de estudios de la Lic. de Biología en la USC 
+Créditos: unidad de carga de estudio equivalente a unas 10 horas de clases presenciales o prácticas en el plan antiguo previo a la adaptación a ECTS
+Libre elección = créditos flexibles completados con módulos de otros programas, actividades culturales, idiomas, o aprendizaje extracurricular reconocido_ 
 
 # ***Primer ciclo***
 
 # _2006-7_
 
-_Generales_
+_Biología General_
 
 - Citología e Histología Vegetal y Animal (troncal, Sobresaliente 9)
 - Botánica (troncal, 8.6)
@@ -35,7 +40,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 # _2007-8_
 
-_Generales_
+_Biología General_
 
 - Genética (troncal)
 - Microbiología (troncal, Matrícula de Honor 9.5)
@@ -54,7 +59,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 # _2008-9_
 
-_Generales_
+_Biología General_
 
 - Fisiología animal (troncal, Sobresaliente 9)
 - Fisiología vegetal (troncal, 7.9)
@@ -73,7 +78,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 # _2009-10_
 
-_Generales_
+_Biología General_
 
 - Fundamentos de la biología aplicada I (troncal, 1er cuatrimestre, 7)
 - Fundamentos de la biología aplicada II (troncal, 2º cuatrimestre, 8.1)
@@ -93,7 +98,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 # _2010-11_
 
-_Generales_
+_Biología General_
 
 - Fundamentos de la biología aplicada III (troncal, 1er cuatrimestre, 7.6)
 - Fundamentos de la biología aplicada IV (troncal, 2º cuatrimestre, 7.3)
