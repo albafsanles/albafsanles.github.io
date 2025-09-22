@@ -11,11 +11,12 @@ Aquí puedes ver las asignaturas que he cursado en mis estudios universitarios:
 ## **Licenciatura en Biología (Universidad de Santiago de Compostela)**
 
 _* Glosario: 
-Troncal = Asignatura obligatoria a nivel de todo el país; 
-Obligatoria = Asignatura obligatoria en la Lic. de Biología en la USC, no en todas las universidades; 
+Troncal = Asignatura obligatoria en la Lic. de Biología, definida a nivel estatal en España; 
+Obligatoria = Asignatura obligatoria en la Lic. de Biología en la USC, no en todas las universidades españolas; 
 Optativa = Asignatura optativa dentro del plan de estudios de la Lic. de Biología en la USC; 
-Créditos: unidad de carga de estudio equivalente a unas 10 horas de clases; presenciales o prácticas en el plan antiguo previo a la adaptación a ECTS;
-Libre elección = créditos flexibles completados con módulos de otros programas, actividades culturales, idiomas, o aprendizaje extracurricular reconocido_ 
+Créditos: Unidad de carga de estudio equivalente a unas 10 horas de clases presenciales o prácticas;
+Libre elección = Créditos flexibles completados con módulos de otros programas, actividades culturales, idiomas, o aprendizaje extracurricular reconocido.
+Todas las definiciones corresponden al plan antiguo, previo a la adaptación de créditos europeos (actual ECTS)._ 
 
 # ***Primer ciclo***
 
