@@ -8,7 +8,7 @@ permalink: /cv/asignaturas/
 
 Mi formación empezó en la educación pública española. Este periodo me proporcionó una base cultural sólida y la base de mi formación en ciencias, y me permitió desarrollar habilidades de análisis, pensamiento crítico y otras competencias fundamentales para mi rol ciudadano, mi conocimiento cultural y la formación universitaria posterior. En este periodo también pude disfrutar de diversas experiencias extracurriculares que ampliaron mis conocimientos y habilidades.
 
-## **Educación obligatoria (Primaria + E.S.O.)
+## Educación obligatoria (Primaria + E.S.O.)
 
 # _Educación Infantil_
 
@@ -32,7 +32,7 @@ Educación pública en gallego y español.
 Asignaturas: Lengua Castellana y Literatura I-IV; Lingua Galega e Literatura I-IV; Inglés I-IV; Francés; Matemáticas I-IV; Ciencias Naturales I-II; Ciencias Sociales I-II; Educación Física I-IV; Biología y Geología; Física y Química; Geografía e Historia; Educación Plástica y Visual; Música; Tecnología
 Actividades extracurriculares: Inglés.
 
-## **Bachillerato en Ciencias de la Salud
+## Bachillerato en Ciencias de la Salud
 
 _2004-6_
 I.E.S. Leliadoura (Ribeira, A Coruña)
