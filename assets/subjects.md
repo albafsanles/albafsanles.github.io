@@ -4,13 +4,9 @@ title: "Asignaturas"
 permalink: /cv/asignaturas/
 ---
 
-# Formación previa y contexto educativo
+# Formación previa preuniversitaria
 
-Antes de iniciar la Licenciatura en Biología, mi formación incluyó estudios de educación secundaria y bachillerato con especialización en ciencias, combinando asignaturas de biología, química, matemáticas y física. 
-
-Este periodo me proporcionó una base sólida en ciencias y me permitió desarrollar habilidades de análisis, pensamiento crítico y trabajo experimental, fundamentales para la formación universitaria posterior.
-
-También incluyó experiencias extracurriculares y proyectos culturales que ampliaron mi perspectiva científica y general, algo muy valorado en el contexto internacional actual.
+Mi formación empezó en la educación pública española. Este periodo me proporcionó una base cultural sólida y la base de mi formación en ciencias, y me permitió desarrollar habilidades de análisis, pensamiento crítico y otras competencias fundamentales para mi rol ciudadano, mi conocimiento cultural y la formación universitaria posterior. En este periodo también pude disfrutar de diversas experiencias extracurriculares que ampliaron mis conocimientos y habilidades.
 
 ## **Educación obligatoria (Primaria + E.S.O.)
 
