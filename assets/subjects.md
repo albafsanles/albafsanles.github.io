@@ -81,7 +81,14 @@ _2010-11_
 - Neurobiología general y comparada (optativa, 2º cuatrimestre, 5.3)
 - Libre elección: Inglés Nivel 9
 
-## **Master en Tratamiento y Patogénesis del SIDA (Fundación IRSICaixa)**
+## **Máster en Tratamiento y Patogénesis del SIDA (Fundación IRSICaixa)**
+_2011-12_
+- Tecnología del ADN recombinante
+- Mutagénesis y reparación
+- Evaluación del riesgo biológico
+- Prácticas de iniciación a la investigación
+
+## **Máster en Tratamiento y Patogénesis del SIDA (Fundación IRSICaixa)**
 _2012-13_
 - Bases virológica, inmunológica y clínica
 - Tratamiento antiretroviral
@@ -89,4 +96,4 @@ _2012-13_
 - Hacia la curación
 - HIV Research (research visit to Boston - Ragon Institute, Harvard Mass General, MIT)
 - Prácticas de laboratorio de retrovirología
-- Trabajo fin de master
+- Trabajo fin de máster
