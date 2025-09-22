@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: "Asignaturas"
-permalink: /cv/asignaturas
+permalink: /cv/asignaturas/
 ---
 
 # Formación universitaria
