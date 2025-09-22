@@ -10,6 +10,8 @@ Aquí puedes ver las asignaturas que he cursado en mis estudios universitarios:
 
 ## **Licenciatura en Biología (Universidad de Santiago de Compostela)**
 
+* _Glosario: Troncal = Asignatura obligatoria a nivel de todo el país; Obligatoria = Asignatura obligatoria en la Lic. de Biología en la USC, no en todas las universidades; Optativa = Asignatura electiva dentro del catálogo ofrecido por la Universidad como parte del programa; Libre elección = créditos flexibles completados con módulos de otros programas, actividades culturales, idiomas, o aprendizaje extracurricular reconocido; Créditos: unidad de carga de estudio equivalente a unas 10 hours de clases presenciales o prácticas._
+
 # ***Primer ciclo***
 
 # _2006-7_
@@ -109,7 +111,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 - Inglés Nivel 9 (créditos de libre elección)
 
-* _Troncal = Asignatura obligatoria a nivel de todo el país; Obligatoria = Asignatura obligatoria en la Lic. de Biología en la USC, no en todas las universidades; Optativa = Asignatura electiva dentro del catálogo ofrecido por la Universidad como parte del programa; Libre elección = créditos flexibles completados con módulos de otros programas, actividades culturales, idiomas, o aprendizaje extracurricular reconocido; Créditos: unidad de carga de estudio equivalente a unas 10 hours de clases presenciales o prácticas._
+
   
 ## **Máster en Genética Avanzada (Universidad Autónoma de Barcelona)**
 _2011-12_
@@ -117,6 +119,8 @@ _2011-12_
 - Mutagénesis y reparación
 - Evaluación del riesgo biológico
 - Prácticas de iniciación a la investigación
+
+
 
 ## **Máster en Tratamiento y Patogénesis del SIDA (Fundación IRSICaixa)**
 _2012-13_
