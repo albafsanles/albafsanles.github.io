@@ -81,7 +81,7 @@ _2010-11_
 - Neurobiología general y comparada (optativa, 2º cuatrimestre, 5.3)
 - Libre elección: Inglés Nivel 9
 
-## **Máster en Tratamiento y Patogénesis del SIDA (Fundación IRSICaixa)**
+## **Máster en Genética Avanzada (Universidad Autónoma de Barcelona)**
 _2011-12_
 - Tecnología del ADN recombinante
 - Mutagénesis y reparación
