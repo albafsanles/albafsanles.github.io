@@ -6,7 +6,7 @@ permalink: /cv/asignaturas/
 
 # Formación y asignaturas cursadas
 
-Mi formación empezó en la educación pública española. Aquí puedes consultar qué, dónde y cuándo estudié en el colegio, instituto y la universidad.
+Mi formación empezó en la educación pública gallega. Aquí puedes consultar qué, dónde y cuándo estudié en el colegio, instituto y la universidad.
 
 
 
