@@ -13,33 +13,48 @@ Mi formación empezó en la educación pública española. Este periodo me propo
 # _Educación Infantil_
 
 _1991-3_
+
 C.E.I.P. de Xuño (Porto do Son, A Coruña)
 Educación pública en gallego y español.
 
 # _Educación Primaria_
 
 _1993-2000_
+
 C.E.I.P. de Xuño (Porto do Son, A Coruña)
+
 Educación pública en gallego y español.
+
 Premios en concursos literarios a nivel municipal.
+
 Actividades extracurriculares: inglés, natación, pintura, y otras.
 
 # _Educación Secundaria (E.S.O.)_
 
 _2000-4_
+
 I.E.S. Leliadoura (Ribeira, A Coruña)
+
 Educación pública en gallego y español.
+
 Asignaturas: Lengua Castellana y Literatura I-IV; Lingua Galega e Literatura I-IV; Inglés I-IV; Francés; Matemáticas I-IV; Ciencias Naturales I-II; Ciencias Sociales I-II; Educación Física I-IV; Biología y Geología; Física y Química; Geografía e Historia; Educación Plástica y Visual; Música; Tecnología
+
 Actividades extracurriculares: Inglés.
 
 ## Bachillerato en Ciencias de la Salud
 
 _2004-6_
+
 I.E.S. Leliadoura (Ribeira, A Coruña)
+
 Educación pública en gallego y español.
+
 Excelencia educativa reconocida con la Matrícula de honor del Bachillerato en Ciencias de la Salud 2004-6.
+
 Asignaturas: Lengua Castellana y Literatura I y II; Lingua Galega e Literatura I y II; Inglés I y II; Francés I; Filosofía I y II; Historia I; Biología y Geología; Biología; Ciencias de la Tierra; Física y Química; Química; Física; Matemáticas I; Educación Física I.
+
 Actividades: Participación en un programa de intercambio escolar de la Unión Europea con el Liceo classico Giovanni XXIII (Marsala, Sicilia, Italia). La experiencia incluyó una estancias de dos semanas en familias anfitrionas y actividades culturales y académicas conjuntas, promoviendo la comprensión intercultural y el aprendizaje colaborativo. El tema de unión entre las dos culturas era el mar y las comunidades costeras.
+
 Actividades extracurriculares: Inglés.
 
 
@@ -50,13 +65,19 @@ Aquí puedes ver las asignaturas que he cursado en mis estudios universitarios e
 
 ## **Licenciatura en Biología (Universidad de Santiago de Compostela)**
 
-_* Glosario: 
-Troncal = Asignatura obligatoria en la Lic. de Biología, definida a nivel estatal en España; 
-Obligatoria = Asignatura obligatoria en la Lic. de Biología en la USC, no en todas las universidades españolas; 
-Optativa = Asignatura optativa dentro del plan de estudios de la Lic. de Biología en la USC; 
-Créditos: Unidad de carga de estudio equivalente a unas 10 horas de clases presenciales o prácticas;
-Libre elección = Créditos flexibles completados con módulos de otros programas, actividades culturales, idiomas, o aprendizaje extracurricular reconocido.
-Todas las definiciones corresponden al plan antiguo, previo a la adaptación de créditos europeos (actual ECTS)._ 
+_* Glosario:_
+
+_Troncal = Asignatura obligatoria en la Lic. de Biología, definida a nivel estatal en España;_
+
+_Obligatoria = Asignatura obligatoria en la Lic. de Biología en la USC, no en todas las universidades españolas;_ 
+
+_Optativa = Asignatura optativa dentro del plan de estudios de la Lic. de Biología en la USC;_ 
+
+_Créditos: Unidad de carga de estudio equivalente a unas 10 horas de clases presenciales o prácticas;_
+
+_Libre elección = Créditos flexibles completados con módulos de otros programas, actividades culturales, idiomas, o aprendizaje extracurricular reconocido._
+
+_Todas las definiciones corresponden al plan antiguo, previo a la adaptación de créditos europeos (actual ECTS)._ 
 
 # ***Primer ciclo***
 
