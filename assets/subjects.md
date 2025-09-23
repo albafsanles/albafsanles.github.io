@@ -124,6 +124,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 - Ciclo de cine "Ciencia e Ficción" (créditos de libre elección)
 - Investigación biomédica ("shadowing", oportunidad competitiva para créditos de libre elección, Sobresaliente 9)
 - "Un recorrido por la Matemática" (créditos de libre elección)
+- Curso de verano de Inmersión en Lengua Inglesa en Londres
 
 # Segundo ciclo
 
@@ -145,7 +146,13 @@ _Asignaturas vinculadas a la orientación de Biología molecular y Biotecnologí
 
 _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
-- Inglés Nivel 8 (créditos de libre elección)
+- [Inglés Nivel 8 (créditos de libre elección)](https://www.usc.gal/es/centro/centro-lenguas-modernas/lenguas/ingles)
+
+
+
++ Actividades formativas extracurriculares en este periodo: 
+
+- [Curso intensivo de Inmersión en Lengua Inglesa en Valencia, con beca del Ministerio](https://www.uimp.es/actividades-academicas/cursos-de-inmersion-en-ingles/curso-para-estudiantes.html)
 
 **2010-11**
 
@@ -165,8 +172,13 @@ _Asignaturas vinculadas a la orientación de Biología molecular y Biotecnologí
 
 _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
-- Inglés Nivel 9 (créditos de libre elección)
+- [Inglés Nivel 9 (créditos de libre elección)](https://www.usc.gal/es/centro/centro-lenguas-modernas/lenguas/ingles)
 
+
+
++ Actividades formativas extracurriculares en este periodo: 
+[Curso de preparación para Cambridge English First (FCE)](https://www.cambridgeenglish.org/exams-and-tests/first/)
+[Curso intensivo de Inmersión en Lengua Inglesa en Santander, con beca del Ministerio](https://www.uimp.es/actividades-academicas/cursos-de-inmersion-en-ingles/curso-para-estudiantes.html)
 
   
 ## Máster en Genética Avanzada (Universidad Autónoma de Barcelona)
@@ -177,6 +189,16 @@ _Módulos:_
 - Mutagénesis y reparación
 - Evaluación del riesgo biológico
 - Prácticas de iniciación a la investigación
+
+[Info](https://www.uab.cat/web/estudiar/la-oferta-de-masteres-oficiales/informacion-general/genetica-avanzada-/-advanced-genetics-1096480309770.html?param1=1345648395418)
+
+
+
++ Actividades formativas extracurriculares en este periodo: 
+
+- Curso de Alemán
+
+- Curso de verano de Inmersión en Alemán en Berlín con beca del Ministerio
 
 
 
@@ -190,6 +212,14 @@ _Módulos:_
 - Hacia la curación
 - HIV Research (research visit to Boston - Ragon Institute, Harvard Mass General, MIT)
 - Prácticas de laboratorio de retrovirología
+
+[Info](https://www.uab.cat/web/estudiar/la-oferta-de-masteres-oficiales/informacion-general/patogenesis-y-tratamiento-del-sida-1096480309770.html?param1=1345648393242)
+
+
+
++ Actividades formativas extracurriculares en este periodo: 
+
+- [TOEFL Test](https://www.ets.org/toefl.html)
 
 
 
