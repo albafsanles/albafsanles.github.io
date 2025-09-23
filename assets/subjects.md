@@ -4,19 +4,25 @@ title: "Asignaturas"
 permalink: /cv/asignaturas/
 ---
 
-# Formación previa preuniversitaria
+# Formación y asignaturas cursadas
 
-Mi formación empezó en la educación pública española. Este periodo me proporcionó una base cultural sólida y la base de mi formación en ciencias, y me permitió desarrollar habilidades de análisis, pensamiento crítico y otras competencias fundamentales para mi rol ciudadano, mi conocimiento cultural y la formación universitaria posterior. En este periodo también pude disfrutar de diversas experiencias extracurriculares que ampliaron mis conocimientos y habilidades.
+Mi formación empezó en la educación pública española. Aquí puedes consultar qué, dónde y cuándo estudié en el colegio, instituto y la universidad.
+
+
+
+## Formación previa preuniversitaria
+
+Este periodo me proporcionó una base cultural sólida y la base de mi formación en ciencias, y me permitió desarrollar habilidades de análisis, pensamiento crítico y otras competencias fundamentales para mi rol ciudadano, mi conocimiento cultural y la formación universitaria posterior. En este periodo también pude disfrutar de diversas experiencias extracurriculares que ampliaron mis conocimientos y habilidades.
 
 ## Educación obligatoria (Primaria + E.S.O.)
 
-# ***Educación Infantil - C.E.I.P. de Xuño (Porto do Son, A Coruña)***
+# **Educación Infantil - C.E.I.P. de Xuño (Porto do Son, A Coruña)**
 
 # _1991-3_
 
 Educación pública en gallego y español.
 
-# ***Educación Primaria - C.E.I.P. de Xuño (Porto do Son, A Coruña)***
+# **Educación Primaria - C.E.I.P. de Xuño (Porto do Son, A Coruña)**
 
 # _1993-2000_
 
@@ -26,7 +32,7 @@ Premios en concursos literarios a nivel municipal.
 
 Actividades extracurriculares: inglés, natación, pintura, y otras.
 
-# ***Educación Secundaria (E.S.O.) - I.E.S. Leliadoura (Ribeira, A Coruña)***
+# **Educación Secundaria (E.S.O.) - I.E.S. Leliadoura (Ribeira, A Coruña)**
 
 # _2000-4_
 
@@ -52,7 +58,7 @@ Actividades extracurriculares: Inglés.
 
 
 
-# Formación universitaria
+## Formación universitaria
 
 Aquí puedes ver las asignaturas que he cursado en mis estudios universitarios en universidades públicas españolas:
 
