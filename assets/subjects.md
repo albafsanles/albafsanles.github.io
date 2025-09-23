@@ -10,18 +10,15 @@ Mi formación empezó en la educación pública española. Este periodo me propo
 
 ## Educación obligatoria (Primaria + E.S.O.)
 
-# _Educación Infantil_
+# ***Educación Infantil - C.E.I.P. de Xuño (Porto do Son, A Coruña)***
 
-_1991-3_
+# _1991-3_
 
-C.E.I.P. de Xuño (Porto do Son, A Coruña)
 Educación pública en gallego y español.
 
-# _Educación Primaria_
+# ***Educación Primaria - C.E.I.P. de Xuño (Porto do Son, A Coruña)***
 
-_1993-2000_
-
-C.E.I.P. de Xuño (Porto do Son, A Coruña)
+# _1993-2000_
 
 Educación pública en gallego y español.
 
@@ -29,11 +26,9 @@ Premios en concursos literarios a nivel municipal.
 
 Actividades extracurriculares: inglés, natación, pintura, y otras.
 
-# _Educación Secundaria (E.S.O.)_
+# ***Educación Secundaria (E.S.O.) - I.E.S. Leliadoura (Ribeira, A Coruña)***
 
-_2000-4_
-
-I.E.S. Leliadoura (Ribeira, A Coruña)
+# _2000-4_
 
 Educación pública en gallego y español.
 
@@ -41,11 +36,9 @@ Asignaturas: Lengua Castellana y Literatura I-IV; Lingua Galega e Literatura I-I
 
 Actividades extracurriculares: Inglés.
 
-## Bachillerato en Ciencias de la Salud
+## Bachillerato en Ciencias de la Salud - I.E.S. Leliadoura (Ribeira, A Coruña)
 
-_2004-6_
-
-I.E.S. Leliadoura (Ribeira, A Coruña)
+# _2004-6_
 
 Educación pública en gallego y español.
 
