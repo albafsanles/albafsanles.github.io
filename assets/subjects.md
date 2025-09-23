@@ -30,7 +30,8 @@ Educación pública en gallego y español.
 
 Premios en concursos literarios a nivel municipal.
 
-Actividades extracurriculares: [inglés](https://www.academialiberty.es/), natación, pintura, y otras.
+_+ Actividades extracurriculares:_
+[Inglés](https://www.academialiberty.es/), natación, pintura, y otras.
 
 # Educación Secundaria (E.S.O.)
 
@@ -40,7 +41,8 @@ Educación pública en gallego y español.
 
 Asignaturas: Lengua Castellana y Literatura I-IV; Lingua Galega e Literatura I-IV; Inglés I-IV; Francés; Matemáticas I-IV; Ciencias Naturales I-II; Ciencias Sociales I-II; Educación Física I-IV; Biología y Geología; Física y Química; Geografía e Historia; Educación Plástica y Visual; Música; Tecnología
 
-Actividades extracurriculares: [inglés](https://www.academialiberty.es/).
+_+ Actividades extracurriculares:_
+- [Inglés](https://www.academialiberty.es/).
 
 ## Bachillerato en Ciencias de la Salud
 
@@ -50,11 +52,12 @@ Educación pública en gallego y español.
 
 Excelencia educativa reconocida con la Matrícula de honor del Bachillerato en Ciencias de la Salud 2004-6.
 
-Asignaturas: Lengua Castellana y Literatura I y II; Lingua Galega e Literatura I y II; Inglés I y II; Francés I; Filosofía I y II; Historia I; Biología y Geología; Biología; Ciencias de la Tierra; Física y Química; Química; Física; Matemáticas I; Educación Física I.
+- Asignaturas: Lengua Castellana y Literatura I y II; Lingua Galega e Literatura I y II; Inglés I y II; Francés I; Filosofía I y II; Historia I; Biología y Geología; Biología; Ciencias de la Tierra; Física y Química; Química; Física; Matemáticas I; Educación Física I.
 
-Actividades: Participación en un programa de intercambio escolar de la Unión Europea con el Liceo classico Giovanni XXIII (Marsala, Sicilia, Italia). La experiencia incluyó una estancias de dos semanas en familias anfitrionas y actividades culturales y académicas conjuntas, promoviendo la comprensión intercultural y el aprendizaje colaborativo. El tema de unión entre las dos culturas era el mar y las comunidades costeras.
+- Actividades: Participación en un programa de intercambio escolar de la Unión Europea entre el IES Leliadoura y el Liceo Classico Giovanni XXIII en Marsala, Sicilia (Italia). El tema de unión entre las dos culturas era el mar y las comunidades costeras. Cada instituto formaba un grupo de estudiantes participantes durante el curso, realizando actividades complementarias en sus respectivos centros. El grupo participante gallego viajó primero a Marsala durante 2 semanas, donde cada estudiante nos alojamos en la casa de la familia de un compañero participante italiano, asistimos a sus clases, compartimos su día a día, y participamos en actividades culturales conjuntas para todos los participantes. Posteriormente, los estudiantes italianos visitaron nuestras casas y el instituto gallego durante 2 semanas, completando el intercambio. 
 
-Actividades extracurriculares: [inglés](https://www.academialiberty.es/).
+_+ Actividades extracurriculares:_
+-[inglés](https://www.academialiberty.es/).
 
 
 
@@ -129,7 +132,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 _+ Actividades formativas extracurriculares en este periodo:_ 
 
-- Curso de verano de Inmersión en Lengua Inglesa en Londres (programa de intercambio y centro de idiomas cerrados)
+- Estancia de verano (3 semanas) y Curso de Inmersión en Lengua Inglesa en Londres (programa de intercambio y centro de idiomas cerrados)
 
 # Segundo ciclo
 
@@ -157,7 +160,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 _+ Actividades formativas extracurriculares en este periodo:_ 
 
-- [Curso intensivo de Inmersión en Lengua Inglesa en Valencia, con beca del Ministerio](https://www.uimp.es/actividades-academicas/cursos-de-inmersion-en-ingles/curso-para-estudiantes.html)
+- [Curso intensivo de verano (1 semana) de Inmersión en Lengua Inglesa en Valencia, con beca del Ministerio](https://www.uimp.es/actividades-academicas/cursos-de-inmersion-en-ingles/curso-para-estudiantes.html)
 
 **2010-11**
 
@@ -183,7 +186,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 _+ Actividades formativas extracurriculares en este periodo:_ 
 - [Curso de preparación para Cambridge English First (FCE)](https://www.cambridgeenglish.org/exams-and-tests/first/)
-- [Curso intensivo de Inmersión en Lengua Inglesa en Santander, con beca del Ministerio](https://www.uimp.es/actividades-academicas/cursos-de-inmersion-en-ingles/curso-para-estudiantes.html)
+- [Curso intensivo de verano (1 semana) de Inmersión en Lengua Inglesa en Santander, con beca del Ministerio](https://www.uimp.es/actividades-academicas/cursos-de-inmersion-en-ingles/curso-para-estudiantes.html)
 
   
 ## Máster en Genética Avanzada (Universidad Autónoma de Barcelona)
@@ -201,7 +204,7 @@ _Módulos:_
 
 _+ Actividades formativas extracurriculares en este periodo:_ 
 - [Curso de Alemán](https://www.heyidiomes.com/cursos-barcelona/alemany/)
-- Curso y estancia de verano de Inmersión en Alemán en Berlín con beca del Ministerio (programa de intercambio y centro de idiomas cerrados)
+- Estancia de verano (1 mes) y Curso de Inmersión en Alemán en Berlín con beca del Ministerio (programa de intercambio y centro de idiomas cerrados)
 
 
 
@@ -222,7 +225,7 @@ _Módulos:_
 
 _+ Actividades formativas extracurriculares después de mis estudios de Máster:_ 
 - [TOEFL Test](https://www.ets.org/toefl.html)
-- [Curso de inmersión de Francés en Dijon, Francia](https://www.fabert.com/etablissement-prive/30275/ALLIANCE-FRAN%C3%87AISE.html)
+- [Estancia de 3 meses y curso para inmersión en Francés en Dijon, Francia](https://www.fabert.com/etablissement-prive/30275/ALLIANCE-FRAN%C3%87AISE.html)
 
 
 ## Doctorado en Biomedicina (Universidad Pompeu Fabra)
