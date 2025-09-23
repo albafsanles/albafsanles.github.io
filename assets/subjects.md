@@ -10,7 +10,7 @@ Mi formación empezó en la educación pública española. Aquí puedes consulta
 
 
 
-## Formación preuniversitaria
+## **Formación preuniversitaria**
 
 Este periodo me proporcionó una base cultural sólida y la base de mi formación en ciencias, y me permitió desarrollar habilidades de análisis, pensamiento crítico y otras competencias fundamentales para mi rol ciudadano, mi conocimiento cultural y la formación universitaria posterior. En este periodo también pude disfrutar de diversas experiencias extracurriculares que ampliaron mis conocimientos y habilidades.
 
@@ -58,11 +58,11 @@ Actividades extracurriculares: Inglés.
 
 
 
-## Formación universitaria
+## **Formación universitaria**
 
 Aquí puedes ver las asignaturas que he cursado en mis estudios universitarios en universidades públicas españolas:
 
-## **Licenciatura en Biología (Universidad de Santiago de Compostela)**
+## Licenciatura en Biología (Universidad de Santiago de Compostela)
 
 _* Glosario:_
 
@@ -179,7 +179,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 
   
-## **Máster en Genética Avanzada (Universidad Autónoma de Barcelona)**
+## Máster en Genética Avanzada (Universidad Autónoma de Barcelona)
 _2011-12_
 - Tecnología del ADN recombinante
 - Mutagénesis y reparación
@@ -188,7 +188,7 @@ _2011-12_
 
 
 
-## **Máster en Tratamiento y Patogénesis del SIDA (Fundación IRSICaixa)**
+## Máster en Tratamiento y Patogénesis del SIDA (Fundación IRSICaixa)
 _2012-13_
 - Bases virológica, inmunológica y clínica
 - Tratamiento antiretroviral
