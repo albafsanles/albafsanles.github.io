@@ -127,7 +127,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 
 
-_Actividades formativas extracurriculares en este periodo:_ 
+_+ Actividades formativas extracurriculares en este periodo:_ 
 
 - Curso de verano de Inmersión en Lengua Inglesa en Londres (programa de intercambio y centro de idiomas cerrados)
 
@@ -155,7 +155,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 
 
-_Actividades formativas extracurriculares en este periodo:_ 
+_+ Actividades formativas extracurriculares en este periodo:_ 
 
 - [Curso intensivo de Inmersión en Lengua Inglesa en Valencia, con beca del Ministerio](https://www.uimp.es/actividades-academicas/cursos-de-inmersion-en-ingles/curso-para-estudiantes.html)
 
@@ -181,9 +181,10 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 
 
-_Actividades formativas extracurriculares en este periodo:_ 
+_+ Actividades formativas extracurriculares en este periodo:_ 
 
 [Curso de preparación para Cambridge English First (FCE)](https://www.cambridgeenglish.org/exams-and-tests/first/)
+
 [Curso intensivo de Inmersión en Lengua Inglesa en Santander, con beca del Ministerio](https://www.uimp.es/actividades-academicas/cursos-de-inmersion-en-ingles/curso-para-estudiantes.html)
 
   
@@ -196,11 +197,11 @@ _Módulos:_
 - Evaluación del riesgo biológico
 - Prácticas de iniciación a la investigación
 
-[Info](https://www.uab.cat/web/estudiar/la-oferta-de-masteres-oficiales/informacion-general/genetica-avanzada-/-advanced-genetics-1096480309770.html?param1=1345648395418)
+[Información sobre el programa](https://www.uab.cat/web/estudiar/la-oferta-de-masteres-oficiales/informacion-general/genetica-avanzada-/-advanced-genetics-1096480309770.html?param1=1345648395418)
 
 
 
-_Actividades formativas extracurriculares en este periodo:_ 
+_+ Actividades formativas extracurriculares en este periodo:_ 
 
 - [Curso de Alemán](https://www.heyidiomes.com/cursos-barcelona/alemany/)
 
@@ -219,11 +220,11 @@ _Módulos:_
 - HIV Research (research visit to Boston - Ragon Institute, Harvard Mass General, MIT)
 - Prácticas de laboratorio de retrovirología
 
-[Info](https://www.uab.cat/web/estudiar/la-oferta-de-masteres-oficiales/informacion-general/patogenesis-y-tratamiento-del-sida-1096480309770.html?param1=1345648393242)
+[Información sobre el programa](https://www.uab.cat/web/estudiar/la-oferta-de-masteres-oficiales/informacion-general/patogenesis-y-tratamiento-del-sida-1096480309770.html?param1=1345648393242)
 
 
 
-_Actividades formativas extracurriculares después de mis estudios de Máster:_ 
+_+ Actividades formativas extracurriculares después de mis estudios de Máster:_ 
 
 - [TOEFL Test](https://www.ets.org/toefl.html)
 - [Curso de inmersión de Francés en Dijon, Francia](https://www.fabert.com/etablissement-prive/30275/ALLIANCE-FRAN%C3%87AISE.html)
