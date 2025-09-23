@@ -30,7 +30,7 @@ Educación pública en gallego y español.
 
 Premios en concursos literarios a nivel municipal.
 
-Actividades extracurriculares: inglés, natación, pintura, y otras.
+Actividades extracurriculares: [inglés](https://www.academialiberty.es/), natación, pintura, y otras.
 
 # Educación Secundaria (E.S.O.)
 
@@ -40,7 +40,7 @@ Educación pública en gallego y español.
 
 Asignaturas: Lengua Castellana y Literatura I-IV; Lingua Galega e Literatura I-IV; Inglés I-IV; Francés; Matemáticas I-IV; Ciencias Naturales I-II; Ciencias Sociales I-II; Educación Física I-IV; Biología y Geología; Física y Química; Geografía e Historia; Educación Plástica y Visual; Música; Tecnología
 
-Actividades extracurriculares: Inglés.
+Actividades extracurriculares: [inglés](https://www.academialiberty.es/).
 
 ## Bachillerato en Ciencias de la Salud
 
@@ -54,7 +54,7 @@ Asignaturas: Lengua Castellana y Literatura I y II; Lingua Galega e Literatura I
 
 Actividades: Participación en un programa de intercambio escolar de la Unión Europea con el Liceo classico Giovanni XXIII (Marsala, Sicilia, Italia). La experiencia incluyó una estancias de dos semanas en familias anfitrionas y actividades culturales y académicas conjuntas, promoviendo la comprensión intercultural y el aprendizaje colaborativo. El tema de unión entre las dos culturas era el mar y las comunidades costeras.
 
-Actividades extracurriculares: Inglés.
+Actividades extracurriculares: [inglés](https://www.academialiberty.es/).
 
 
 
@@ -124,7 +124,12 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 - Ciclo de cine "Ciencia e Ficción" (créditos de libre elección)
 - Investigación biomédica ("shadowing", oportunidad competitiva para créditos de libre elección, Sobresaliente 9)
 - "Un recorrido por la Matemática" (créditos de libre elección)
-- Curso de verano de Inmersión en Lengua Inglesa en Londres
+
+
+
+_Actividades formativas extracurriculares en este periodo:_ 
+
+- Curso de verano de Inmersión en Lengua Inglesa en Londres (programa de intercambio y centro de idiomas cerrados)
 
 # Segundo ciclo
 
@@ -150,7 +155,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 
 
-+ Actividades formativas extracurriculares en este periodo: 
+_Actividades formativas extracurriculares en este periodo:_ 
 
 - [Curso intensivo de Inmersión en Lengua Inglesa en Valencia, con beca del Ministerio](https://www.uimp.es/actividades-academicas/cursos-de-inmersion-en-ingles/curso-para-estudiantes.html)
 
@@ -176,7 +181,8 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 
 
-+ Actividades formativas extracurriculares en este periodo: 
+_Actividades formativas extracurriculares en este periodo:_ 
+
 [Curso de preparación para Cambridge English First (FCE)](https://www.cambridgeenglish.org/exams-and-tests/first/)
 [Curso intensivo de Inmersión en Lengua Inglesa en Santander, con beca del Ministerio](https://www.uimp.es/actividades-academicas/cursos-de-inmersion-en-ingles/curso-para-estudiantes.html)
 
@@ -194,11 +200,11 @@ _Módulos:_
 
 
 
-+ Actividades formativas extracurriculares en este periodo: 
+_Actividades formativas extracurriculares en este periodo:_ 
 
-- Curso de Alemán
+- [Curso de Alemán](https://www.heyidiomes.com/cursos-barcelona/alemany/)
 
-- Curso de verano de Inmersión en Alemán en Berlín con beca del Ministerio
+- Curso y estancia de verano de Inmersión en Alemán en Berlín con beca del Ministerio (programa de intercambio y centro de idiomas cerrados)
 
 
 
@@ -217,10 +223,10 @@ _Módulos:_
 
 
 
-+ Actividades formativas extracurriculares en este periodo: 
+_Actividades formativas extracurriculares después de mis estudios de Máster:_ 
 
 - [TOEFL Test](https://www.ets.org/toefl.html)
-
+- [Curso de inmersión de Francés en Dijon, Francia](https://www.fabert.com/etablissement-prive/30275/ALLIANCE-FRAN%C3%87AISE.html)
 
 
 ## Doctorado en Biomedicina (Universidad Pompeu Fabra)
