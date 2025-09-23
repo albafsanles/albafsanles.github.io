@@ -190,3 +190,12 @@ _Módulos:_
 - Hacia la curación
 - HIV Research (research visit to Boston - Ragon Institute, Harvard Mass General, MIT)
 - Prácticas de laboratorio de retrovirología
+
+
+
+## Doctorado en Biomedicina (Universidad Pompeu Fabra)
+_2015-20_
+
+Información sobre el programa["https://www.upf.edu/web/phd-biomedicine/academic-activities"]
+Tesis doctoral["http://hdl.handle.net/10803/668498"]
+
