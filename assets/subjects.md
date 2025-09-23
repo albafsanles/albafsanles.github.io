@@ -78,9 +78,9 @@ _Libre elección = Créditos flexibles completados con módulos de otros program
 
 _Todas las definiciones corresponden al plan antiguo, previo a la adaptación de créditos europeos (actual ECTS)._ 
 
-# ***Primer ciclo***
+# **Primer ciclo**
 
-# _2006-7_
+***2006-7***
 
 _Biología General_
 
@@ -99,7 +99,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 - Matemáticas (verano, créditos de libre elección)
 - Física (verano, créditos de libre elección)
 
-# _2007-8_
+***2007-8***
 
 _Biología General_
 
@@ -118,7 +118,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 - "La Bioinformática como puente entre la Genética y sus aplicaciones industriales y biomédicas" (verano,  créditos de libre elección)
 
 
-# _2008-9_
+***2008-9***
 
 _Biología General_
 
@@ -135,9 +135,9 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 - Investigación biomédica ("shadowing", oportunidad competitiva para créditos de libre elección, Sobresaliente 9)
 - "Un recorrido por la Matemática" (créditos de libre elección)
 
-# ***Segundo ciclo***
+# **Segundo ciclo**
 
-# _2009-10_
+***2009-10***
 
 _Biología General_
 
@@ -157,7 +157,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 - Inglés Nivel 8 (créditos de libre elección)
 
-# _2010-11_
+***2010-11***
 
 _Biología General_
 
