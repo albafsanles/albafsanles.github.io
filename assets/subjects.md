@@ -10,21 +10,21 @@ Mi formación empezó en la educación pública española. Aquí puedes consulta
 
 
 
-## Formación previa preuniversitaria
+## Formación preuniversitaria
 
 Este periodo me proporcionó una base cultural sólida y la base de mi formación en ciencias, y me permitió desarrollar habilidades de análisis, pensamiento crítico y otras competencias fundamentales para mi rol ciudadano, mi conocimiento cultural y la formación universitaria posterior. En este periodo también pude disfrutar de diversas experiencias extracurriculares que ampliaron mis conocimientos y habilidades.
 
 ## Educación obligatoria (Primaria + E.S.O.)
 
-# Educación Infantil - C.E.I.P. de Xuño (Porto do Son, A Coruña)
+# Educación Infantil
 
-_1991-3_
+_C.E.I.P. de Xuño (Porto do Son, A Coruña) - 1991-3_
 
 Educación pública en gallego y español.
 
-# Educación Primaria - C.E.I.P. de Xuño (Porto do Son, A Coruña)
+# Educación Primaria
 
-_1993-2000_
+_C.E.I.P. de Xuño (Porto do Son, A Coruña) - 1993-2000_
 
 Educación pública en gallego y español.
 
@@ -32,9 +32,9 @@ Premios en concursos literarios a nivel municipal.
 
 Actividades extracurriculares: inglés, natación, pintura, y otras.
 
-# Educación Secundaria (E.S.O.) - I.E.S. Leliadoura (Ribeira, A Coruña)
+# Educación Secundaria (E.S.O.)
 
-_2000-4_
+_I.E.S. Leliadoura (Ribeira, A Coruña) - 2000-4_
 
 Educación pública en gallego y español.
 
@@ -42,9 +42,9 @@ Asignaturas: Lengua Castellana y Literatura I-IV; Lingua Galega e Literatura I-I
 
 Actividades extracurriculares: Inglés.
 
-## Bachillerato en Ciencias de la Salud - I.E.S. Leliadoura (Ribeira, A Coruña)
+## Bachillerato en Ciencias de la Salud
 
-_2004-6_
+_I.E.S. Leliadoura (Ribeira, A Coruña) - 2004-6_
 
 Educación pública en gallego y español.
 
