@@ -197,5 +197,7 @@ _Módulos:_
 _2015-20_
 
 [Información sobre el programa](https://www.upf.edu/web/phd-biomedicine/academic-activities)
+
 [Cursos del programa PRBB Intervals](https://intervals.prbb.org/)
+
 [Tesis doctoral](http://hdl.handle.net/10803/668498) (Cum Laude)
