@@ -197,5 +197,6 @@ _Módulos:_
 _2015-20_
 
 Información sobre el programa["https://www.upf.edu/web/phd-biomedicine/academic-activities"]
-Tesis doctoral["http://hdl.handle.net/10803/668498"]
+
+Tesis doctoral["http://hdl.handle.net/10803/668498"] (Cum Laude)
 
