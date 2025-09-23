@@ -182,10 +182,8 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 
 _+ Actividades formativas extracurriculares en este periodo:_ 
-
-[Curso de preparación para Cambridge English First (FCE)](https://www.cambridgeenglish.org/exams-and-tests/first/)
-
-[Curso intensivo de Inmersión en Lengua Inglesa en Santander, con beca del Ministerio](https://www.uimp.es/actividades-academicas/cursos-de-inmersion-en-ingles/curso-para-estudiantes.html)
+- [Curso de preparación para Cambridge English First (FCE)](https://www.cambridgeenglish.org/exams-and-tests/first/)
+- [Curso intensivo de Inmersión en Lengua Inglesa en Santander, con beca del Ministerio](https://www.uimp.es/actividades-academicas/cursos-de-inmersion-en-ingles/curso-para-estudiantes.html)
 
   
 ## Máster en Genética Avanzada (Universidad Autónoma de Barcelona)
@@ -202,9 +200,7 @@ _Módulos:_
 
 
 _+ Actividades formativas extracurriculares en este periodo:_ 
-
 - [Curso de Alemán](https://www.heyidiomes.com/cursos-barcelona/alemany/)
-
 - Curso y estancia de verano de Inmersión en Alemán en Berlín con beca del Ministerio (programa de intercambio y centro de idiomas cerrados)
 
 
@@ -225,7 +221,6 @@ _Módulos:_
 
 
 _+ Actividades formativas extracurriculares después de mis estudios de Máster:_ 
-
 - [TOEFL Test](https://www.ets.org/toefl.html)
 - [Curso de inmersión de Francés en Dijon, Francia](https://www.fabert.com/etablissement-prive/30275/ALLIANCE-FRAN%C3%87AISE.html)
 
