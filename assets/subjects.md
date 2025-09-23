@@ -78,9 +78,9 @@ _Libre elección = Créditos flexibles completados con módulos de otros program
 
 _Todas las definiciones corresponden al plan antiguo, previo a la adaptación de créditos europeos (actual ECTS)._ 
 
-# **Primer ciclo**
+# Primer ciclo
 
-***2006-7***
+**2006-7**
 
 _Biología General_
 
@@ -99,7 +99,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 - Matemáticas (verano, créditos de libre elección)
 - Física (verano, créditos de libre elección)
 
-***2007-8***
+**2007-8**
 
 _Biología General_
 
@@ -118,7 +118,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 - "La Bioinformática como puente entre la Genética y sus aplicaciones industriales y biomédicas" (verano,  créditos de libre elección)
 
 
-***2008-9***
+**2008-9**
 
 _Biología General_
 
@@ -135,9 +135,9 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 - Investigación biomédica ("shadowing", oportunidad competitiva para créditos de libre elección, Sobresaliente 9)
 - "Un recorrido por la Matemática" (créditos de libre elección)
 
-# **Segundo ciclo**
+# Segundo ciclo
 
-***2009-10***
+**2009-10**
 
 _Biología General_
 
@@ -157,7 +157,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
 
 - Inglés Nivel 8 (créditos de libre elección)
 
-***2010-11***
+**2010-11**
 
 _Biología General_
 
@@ -181,6 +181,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
   
 ## Máster en Genética Avanzada (Universidad Autónoma de Barcelona)
 _2011-12_
+
 _Módulos:_
 - Tecnología del ADN recombinante
 - Mutagénesis y reparación
@@ -191,6 +192,7 @@ _Módulos:_
 
 ## Máster en Tratamiento y Patogénesis del SIDA (Fundación IRSICaixa)
 _2012-13_
+
 _Módulos:_
 - Bases virológica, inmunológica y clínica
 - Tratamiento antiretroviral
