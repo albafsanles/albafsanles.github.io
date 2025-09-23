@@ -196,7 +196,6 @@ _Módulos:_
 ## Doctorado en Biomedicina (Universidad Pompeu Fabra)
 _2015-20_
 
-Información sobre el programa["https://www.upf.edu/web/phd-biomedicine/academic-activities"]
+[Información sobre el programa](https://www.upf.edu/web/phd-biomedicine/academic-activities)
 
-Tesis doctoral["http://hdl.handle.net/10803/668498"] (Cum Laude)
-
+[Tesis doctoral](http://hdl.handle.net/10803/668498) (Cum Laude)
