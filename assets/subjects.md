@@ -16,15 +16,15 @@ Este periodo me proporcionó una base cultural sólida y la base de mi formació
 
 ## Educación obligatoria (Primaria + E.S.O.)
 
-# **Educación Infantil - C.E.I.P. de Xuño (Porto do Son, A Coruña)**
+# Educación Infantil - C.E.I.P. de Xuño (Porto do Son, A Coruña)
 
-# _1991-3_
+_1991-3_
 
 Educación pública en gallego y español.
 
-# **Educación Primaria - C.E.I.P. de Xuño (Porto do Son, A Coruña)**
+# Educación Primaria - C.E.I.P. de Xuño (Porto do Son, A Coruña)
 
-# _1993-2000_
+_1993-2000_
 
 Educación pública en gallego y español.
 
@@ -32,9 +32,9 @@ Premios en concursos literarios a nivel municipal.
 
 Actividades extracurriculares: inglés, natación, pintura, y otras.
 
-# **Educación Secundaria (E.S.O.) - I.E.S. Leliadoura (Ribeira, A Coruña)**
+# Educación Secundaria (E.S.O.) - I.E.S. Leliadoura (Ribeira, A Coruña)
 
-# _2000-4_
+_2000-4_
 
 Educación pública en gallego y español.
 
@@ -44,7 +44,7 @@ Actividades extracurriculares: Inglés.
 
 ## Bachillerato en Ciencias de la Salud - I.E.S. Leliadoura (Ribeira, A Coruña)
 
-# _2004-6_
+_2004-6_
 
 Educación pública en gallego y español.
 
