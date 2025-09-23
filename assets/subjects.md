@@ -181,6 +181,7 @@ _Formación flexible fuera del plan de estudios de la Lic. Biología de la USC_
   
 ## Máster en Genética Avanzada (Universidad Autónoma de Barcelona)
 _2011-12_
+_Módulos:_
 - Tecnología del ADN recombinante
 - Mutagénesis y reparación
 - Evaluación del riesgo biológico
@@ -190,10 +191,10 @@ _2011-12_
 
 ## Máster en Tratamiento y Patogénesis del SIDA (Fundación IRSICaixa)
 _2012-13_
+_Módulos:_
 - Bases virológica, inmunológica y clínica
 - Tratamiento antiretroviral
 - Virus relacionados con el VIH
 - Hacia la curación
 - HIV Research (research visit to Boston - Ragon Institute, Harvard Mass General, MIT)
 - Prácticas de laboratorio de retrovirología
-- Trabajo fin de máster
