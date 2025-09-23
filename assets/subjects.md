@@ -60,7 +60,7 @@ Actividades extracurriculares: Inglés.
 
 ## **Formación universitaria**
 
-Aquí puedes ver las asignaturas que he cursado en mis estudios universitarios en universidades públicas españolas:
+Aquí puedes ver las asignaturas que cursé en mis estudios universitarios en universidades públicas españolas:
 
 ## Licenciatura en Biología (Universidad de Santiago de Compostela)
 
