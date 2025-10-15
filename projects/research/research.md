@@ -344,6 +344,9 @@ Consorcio que aplica triangulación de estudios observacionales en múltiples co
  <a href="https://www.medrxiv.org/content/10.1101/2025.03.22.25324447v1" target="_blank">
   Perfil de cohorte;   
  </a>
+ <a href="https://www.medrxiv.org/content/10.1101/2025.06.19.25329933v2" target="_blank">
+  Estudio sobre presión arterial materna y eventos adversos del embarazo y perinatales;   
+ </a>
 Posibles artículos de estudiantes
 </p>
 <p><strong>Conferencias:</strong> NA</p>
