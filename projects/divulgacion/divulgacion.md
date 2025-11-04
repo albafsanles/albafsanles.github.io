@@ -78,10 +78,9 @@ o con Bizum a mi número español si lo tienes.
 <p> Cuento ganador en la categoría de gallego de la VI edición del concurso de relatos "Ciencia-me un cuento" de la Sociedad de Científicos Españoles en Reino Unido </p>
 <p><strong>
   <a href="https://albafernandezsanles.wordpress.com/vale-mas-una-imagen/" target="_blank">
-    Visítala aquí
+    Visítala aquí (necesita contraseña)
   </a>
   </strong>
-  (Necesita contraseña):
 </p>
 <p> La contraseña se comparte únicamente con las personas que me apoyáis explícitamente en Homeward bound projects (la iniciativa con la que fui de expedición Antártida).
 Puedes hacerlo con una donación desde £1, a través de la
