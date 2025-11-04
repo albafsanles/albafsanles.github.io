@@ -47,9 +47,9 @@ Aquí puedes ver los proyectos de comunicación y compromiso público de la cien
 <p><strong>Léelo aquí (necesita contraseña):</strong> 
   en mi Página web 
   <a href="https://albafernandezsanles.wordpress.com/2025/11/02/os-gardians-dos-extremos/" target="_blank">
-    "Pausa en la Antártida"
+    "Pausa en la Antártida",
 </a>
-, en cuenta privada de 
+en cuenta privada de 
    <a href="https://www.instagram.com/alba_antartida2025/" target="_blank">
     Instagram,
   </a>
@@ -61,13 +61,13 @@ en grupo de Facebook privado
 <p> La contraseña se comparte únicamente con las personas que me apoyáis explícitamente en Homeward bound projects (la iniciativa con la que fui de expedición Antártida).
 Puedes hacerlo con una donación desde £1, a través de la
 <a href="https://chuffed.org/pay/campaign/97104" target="_blank">
-    plataforma Chuffed
+    plataforma Chuffed,
   </a>
-, del formulario de donaciones en mi Página web 
+del formulario de donaciones en mi Página web 
 <a href="https://albafernandezsanles.wordpress.com/compromiso/" target="_blank">
-    "Pausa en la Antártida"
+    "Pausa en la Antártida",
   </a>
-, o con Bizum a mi número español si lo tienes.
+o con Bizum a mi número español si lo tienes.
 </p>
 </details>
 
@@ -86,13 +86,13 @@ Puedes hacerlo con una donación desde £1, a través de la
 <p> La contraseña se comparte únicamente con las personas que me apoyáis explícitamente en Homeward bound projects (la iniciativa con la que fui de expedición Antártida).
 Puedes hacerlo con una donación desde £1, a través de la
 <a href="https://chuffed.org/pay/campaign/97104" target="_blank">
-    plataforma Chuffed
+    plataforma Chuffed,
   </a>
-, del formulario de donaciones en mi Página web 
+del formulario de donaciones en mi Página web 
 <a href="https://albafernandezsanles.wordpress.com/compromiso/" target="_blank">
-    "Pausa en la Antártida"
+    "Pausa en la Antártida",
   </a>
-, o con Bizum a mi número español si lo tienes.
+o con Bizum a mi número español si lo tienes.
 </p>
 </details>
 
