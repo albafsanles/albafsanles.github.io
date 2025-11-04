@@ -40,7 +40,56 @@ Aquí puedes ver los proyectos de comunicación y compromiso público de la cien
 
 </details>
 
+## Cuento infantil **"Os gardiáns dos extremos"** (original en gallego)
+<details>
+<summary>Ver detalles</summary>
+<p> Cuento ganador en la categoría de gallego de la VI edición del concurso de relatos "Ciencia-me un cuento" de la Sociedad de Científicos Españoles en Reino Unido </p>
+<p><strong>Léelo aquí (necesita contraseña):</strong> 
+  <a href="https://albafernandezsanles.wordpress.com/2025/11/02/os-gardians-dos-extremos/" target="_blank">
+    En mi Página web "Pausa en la Antártida",
+  </a>
+   <a href="https://www.instagram.com/alba_antartida2025/" target="_blank">
+    en Instagram privado,
+  </a>
+   <a href="https://www.facebook.com/groups/antardidaconalba" target="_blank">
+    en grupo de Facebook privado "Antártida 2025 con Alba"
+  </a>
+</p>
+<p> La contraseña se comparte únicamente con las personas que me apoyáis explícitamente en Homeward bound projects (la iniciativa con la que fui de expedición Antártida).
+Puedes hacerlo en:
+<a href="https://chuffed.org/pay/campaign/97104" target="_blank">
+    Donación a través de la plataforma Chuffed
+  </a>
+  ,
+<a href="https://albafernandezsanles.wordpress.com/compromiso/" target="_blank">
+    Donación a través del formulario en mi Página web "Pausa en la Antártida"
+  </a>
+   , o Bizum a mi número español si lo tienes
+</p>
+</details>
+
+
 ## Exposición virtual **"Parejas del cambio"**
+<details>
+<summary>Ver detalles</summary>
+<p> Cuento ganador en la categoría de gallego de la VI edición del concurso de relatos "Ciencia-me un cuento" de la Sociedad de Científicos Españoles en Reino Unido </p>
+<p><strong> (Necesita contraseña):</strong> 
+  <a href="https://albafernandezsanles.wordpress.com/vale-mas-una-imagen/" target="_blank">
+    Visítala aquí
+  </a>
+</p>
+<p> La contraseña se comparte únicamente con las personas que me apoyáis explícitamente en Homeward bound projects (la iniciativa con la que fui de expedición Antártida).
+Puedes hacerlo en:
+<a href="https://chuffed.org/pay/campaign/97104" target="_blank">
+    Donación a través de la plataforma Chuffed
+  </a>
+  ,
+<a href="https://albafernandezsanles.wordpress.com/compromiso/" target="_blank">
+    Donación a través del formulario en mi Página web "Pausa en la Antártida"
+  </a>
+   , o Bizum a mi número español si lo tienes
+</p>
+</details>
 
 ## **Página web "Pausa en la Antártida"**
 
