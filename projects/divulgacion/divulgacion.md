@@ -40,7 +40,7 @@ Aquí puedes ver los proyectos de comunicación y compromiso público de la cien
 
 </details>
 
-## Cuento infantil **"Os gardiáns dos extremos"** (original en gallego)
+## **Cuento infantil "Os gardiáns dos extremos"**
 <details>
 <summary>Ver detalles</summary>
 <p> Cuento ganador en la categoría de gallego de la VI edición del concurso de relatos "Ciencia-me un cuento" de la Sociedad de Científicos Españoles en Reino Unido </p>
@@ -72,7 +72,7 @@ o con Bizum a mi número español si lo tienes.
 </details>
 
 
-## Exposición virtual **"Parejas del cambio"**
+## **Exposición virtual "Parejas del cambio"**
 <details>
 <summary>Ver detalles</summary>
 <p> Cuento ganador en la categoría de gallego de la VI edición del concurso de relatos "Ciencia-me un cuento" de la Sociedad de Científicos Españoles en Reino Unido </p>
