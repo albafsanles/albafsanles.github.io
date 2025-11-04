@@ -33,13 +33,6 @@ Aquí puedes ver los proyectos de comunicación y compromiso público de la cien
 </p>
 </details>
 
-## **En construcción**
-<details>
-<summary>Ver detalles</summary>
-<p><strong>Estado:</strong> Activo</p>
-
-</details>
-
 ## **Cuento infantil "Os gardiáns dos extremos"**
 <details>
 <summary>Ver detalles</summary>
@@ -96,29 +89,94 @@ o con Bizum a mi número español si lo tienes.
 </details>
 
 ## **Página web "Pausa en la Antártida"**
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Activo</p>
+
+</details>
 
 ## **Entrevistas sobre Homeward bound**
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Finalizado</p>
+
+</details>
 
 ## **Eventos de divulgación en Xuño con Sartaxas**
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Activo</p>
+
+</details>
 
 ## **SRUK/CERU Ciencia-me un cuento**
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Activo</p>
+
+</details>
 
 ## **SRUK/CERU En Foco**
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Activo</p>
+
+</details>
 
 ## **SRUK/CERU Divulgación en redes sociales y foros**
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Activo</p>
+
+</details>
 
 ## **Divulgación con estudiantes del programa In2Science (Londres)**
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Finalizado</p>
+
+</details>
 
 ## **Evento de divulgación de la revista New Scientist (Londres)**
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Finalizado</p>
+
+</details>
 
 ## **Taller divulgativo con niños con Native Scientists (Londres)**
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Finalizado</p>
+
+</details>
 
 ## **Evento divulgativo "Futures Up Late" en Bristol**
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Finalizado</p>
+
+</details>
 
 ## **Divulgación en la Jornada de Puertas abiertas del PRBB en Barcelona**
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Finalizado</p>
+
+</details>
 
 ## **Divulgación a estudiantes de primaria y secundaria en el IMIM en Barcelona**
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Finalizado</p>
+
+</details>
 
 ## **Ciclo de cine "Ciencia e Ficción" en Santiago de Compostela**
+<details>
+<summary>Ver detalles</summary>
+<p><strong>Estado:</strong> Finalizado</p>
+
+</details>
 
 ## **En construcción**
