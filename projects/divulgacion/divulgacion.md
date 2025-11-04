@@ -68,7 +68,7 @@ o con Bizum a mi número español si lo tienes.
 ## **Exposición virtual "Parejas del cambio"**
 <details>
 <summary>Ver detalles</summary>
-<p> Cuento ganador en la categoría de gallego de la VI edición del concurso de relatos "Ciencia-me un cuento" de la Sociedad de Científicos Españoles en Reino Unido </p>
+<p> Proyecto divulgativo independiente en el que tiendo puentes entre la sabana y parques nacionales de Kenia, y el océano y la costa de la Antártida occidental, utilizando la fotografía y la narración escrita. Se trata de una exposición virtual, y el acceso a ella necesita contraseña </p>
 <p><strong>
   <a href="https://albafernandezsanles.wordpress.com/vale-mas-una-imagen/" target="_blank">
     Visítala aquí (necesita contraseña)
