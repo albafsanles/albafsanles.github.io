@@ -8,6 +8,8 @@ permalink: /projects/divulgacion/
 
 Aquí puedes ver los proyectos de comunicación y compromiso público de la ciencia en los que he trabajado:
 
+***En construcción***
+
 ## **Divulgación y concienciación en plataformas digitales populares**
 <details>
 <summary>Ver detalles</summary>
@@ -179,4 +181,3 @@ o con Bizum a mi número español si lo tienes.
 
 </details>
 
-## **En construcción**
