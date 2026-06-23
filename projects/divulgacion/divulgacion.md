@@ -38,7 +38,7 @@ Aquí puedes ver los proyectos de comunicación y compromiso público de la cien
 ## **Cuento infantil "Os gardiáns dos extremos"**
 <details>
 <summary>Ver detalles</summary>
-<p> Cuento ganador en la categoría de gallego de la VI edición del concurso de relatos "Ciencia-me un cuento" de la Sociedad de Científicos Españoles en Reino Unido (<a href="https://sruk.org.uk/6th-science-me-resolution/" target="_blank">
+<p> Cuento ganador en la categoría de gallego de la VI edición del concurso de relatos "Ciencia-me un cuento" de la Sociedad de Científicos Españoles en Reino Unido (<a href=https://sruk.org.uk/6th-science-me-resolution/ target="_blank">
     "resolución de la convocatoria"
 </a>) 
 </p>
